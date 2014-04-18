@@ -9,7 +9,7 @@ categories:
 tags:
   - life
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/02/img_1142.jpg" alt="Tammy and Me" align="left" />&#8220;Some things are meant to be&#8221; others &#8230; aren&#8217;t. Yesterday marked the end of an amazing four (almost five) month relationship with one of the most amazing women I know. The worst part of the whole thing? We still love each other.
+<img src="http://archive.digivation.net/wp-content/uploads/2007/02/img_1142.jpg" alt="Tammy and Me" align="left" />&#8220;Some things are meant to be&#8221; others &#8230; aren&#8217;t. Yesterday marked the end of an amazing four (almost five) month relationship with one of the most amazing women I know. The worst part of the whole thing? We still love each other.
 
 That last statement obviously leads to the question &#8220;why?&#8221; The answer is somewhat more complicated, vague, and disturbing than you probably want to know. When all is said and done, it basically boils down to a matter of religious differences between my mother and my ex-girlfriend. Why does this matter so much? What are the ramifications of such a decision? What will I do from here?
 

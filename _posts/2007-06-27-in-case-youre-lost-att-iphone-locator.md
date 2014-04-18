@@ -17,6 +17,6 @@ An email from AT&T/Cingular just arrived in my inbox informing me of the new sto
 **Update**: someone has created a [cool Google maps mashup][4] to help you locate the iPhone.
 
  [1]: http://apple.com/iphone/
- [2]: http://digivation.net/2007/06/27/iphone-reviews-rolling-in-worst-fears-manifested/
+ [2]: http://archive.digivation.net/2007/06/27/iphone-reviews-rolling-in-worst-fears-manifested/
  [3]: http://www.wireless.att.com/iphonelocator/
  [4]: http://iphone.findnearby.net/

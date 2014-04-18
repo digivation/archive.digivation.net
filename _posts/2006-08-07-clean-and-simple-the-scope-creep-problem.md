@@ -20,4 +20,4 @@ Given these considerations, I have decided to embark on a new endeavor &#8211; t
 While blogs and blogging platforms present a powerful medium for everyone to publish their thoughts on the web, the additional overhead of a “heavy” setup simply seems excessive. I do have an ample bandwidth limit on this site (one that I never even come close to), but that doesn&#8217;t necessarily mean that a visitor also has huge amounts of bandwidth, or, more importantly, time. Please bear with me as I prepare this upgrade to digivation.net. Along with the theme upgrade, I hope to fix the long-awaited photo gallery feature and clean up a few other areas of the site.
 
  [1]: http://getk2.com
- [2]: http://digivation.net/2006/07/06/new-digivation-k2-style/
+ [2]: http://archive.digivation.net/2006/07/06/new-digivation-k2-style/

@@ -10,4 +10,4 @@ As many of my friends know, I kill phones right and left. I also love cool toys.
 
 Now who wants to buy me a data plan?
 
- [1]: http://digivation.net/2007/06/23/the-mystery-of-the-rebooting-razr-solved/
+ [1]: http://archive.digivation.net/2007/06/23/the-mystery-of-the-rebooting-razr-solved/

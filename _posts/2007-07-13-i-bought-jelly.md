@@ -9,7 +9,7 @@ tags:
   - humor
   - jelly
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/07/jelly.thumbnail.jpg" alt="Jelly Chick" align="right" />My peanut butter sandwiches taste much better now.
+<img src="http://archive.digivation.net/wp-content/uploads/2007/07/jelly.thumbnail.jpg" alt="Jelly Chick" align="right" />My peanut butter sandwiches taste much better now.
 
 I couldn&#8217;t resist &#8211; that was the first thought that popped into my head when I returned to my desk! And it&#8217;s Friday &#8211; you gotta give me a break!
 

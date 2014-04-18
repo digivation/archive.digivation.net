@@ -20,7 +20,7 @@ tags:
   - open
   - social network
 ---
-<img class="right" title="Google Latitude" src="http://digivation.net/wp-content/uploads/2009/03/latitude.jpg" alt="Google Latitude" width="340" height="243" />Google Latitude is both extraordinarily useful and superbly useless.
+<img class="right" title="Google Latitude" src="http://archive.digivation.net/wp-content/uploads/2009/03/latitude.jpg" alt="Google Latitude" width="340" height="243" />Google Latitude is both extraordinarily useful and superbly useless.
 
 Let me explain myself. First, I must mention that I consider myself quite the technology aficionado (no surprise to many of you) and I attempt to stay abreast of the latest &#8220;web2.0&#8243; trends. I try new web services often and usually abandon them quickly. When exploring a new service, I try to find a way to enhance my life with its&#8217; functionality. Unfortunately the majority of these new services fail to meet that goal and I never log in again. Occasionally, however, I stubmle across a new gem with potential for greatness.
 

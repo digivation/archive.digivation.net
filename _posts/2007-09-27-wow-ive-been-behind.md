@@ -9,7 +9,7 @@ tags:
   - excuses
   - missing
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/09/n44300338_9366.jpg" class="right" alt="DJ Dirrty Matt?" />You know, you&#8217;d think I&#8217;d have written enough &#8220;sorry I&#8217;m not around&#8221; letters by now, but it appears that&#8217;s not the case. It seems to have been over a month (more like two) since we&#8217;ve really published any amount of new stuff here.
+<img src="http://archive.digivation.net/wp-content/uploads/2007/09/n44300338_9366.jpg" class="right" alt="DJ Dirrty Matt?" />You know, you&#8217;d think I&#8217;d have written enough &#8220;sorry I&#8217;m not around&#8221; letters by now, but it appears that&#8217;s not the case. It seems to have been over a month (more like two) since we&#8217;ve really published any amount of new stuff here.
 
 **So I&#8217;m sorry.**
 
@@ -31,4 +31,4 @@ So there&#8217;s my excuse. I&#8217;ll let Chappie come up with his now. Chappie
 
  [1]: http://www.davidcomeaux.com
  [2]: http://www.2kgames.com/bioshock/
- [3]: http://digivation.net/2007/06/12/new-bmw/
+ [3]: http://archive.digivation.net/2007/06/12/new-bmw/

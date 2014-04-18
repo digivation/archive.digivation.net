@@ -16,7 +16,7 @@ Anyway, I love the &#8220;Dirty South.&#8221; Despite the fact that we spend the
 
 <div>
   <div>
-    <img src="http://digivation.net/wp-content/uploads/2007/07/dunk.jpg" alt="Dunk?" />
+    <img src="http://archive.digivation.net/wp-content/uploads/2007/07/dunk.jpg" alt="Dunk?" />
   </div>
 </div>
 

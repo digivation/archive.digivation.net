@@ -15,4 +15,4 @@ Contrary to popular opinion, I have not yet forgotten, given up on, or otherwise
 **Update 4:22PM**: I have some preliminary artwork in Illustrator&#8230; We&#8217;ll see where this goes&#8230;
 
 **Update 5.18.06**: Nothing is getting done right now because of school. Here is a preview of my current train of thought. Subject to great change, as usual.  
-<a href="http://digivation.net/wp-content/uploads/2006/04/layout.png" class="imagelink" title="Layout Scratchwork"><img src="http://digivation.net/wp-content/uploads/2006/04/layout.thumbnail.png" id="image49" alt="Layout Scratchwork" /></a>
+<a href="http://archive.digivation.net/wp-content/uploads/2006/04/layout.png" class="imagelink" title="Layout Scratchwork"><img src="http://archive.digivation.net/wp-content/uploads/2006/04/layout.thumbnail.png" id="image49" alt="Layout Scratchwork" /></a>

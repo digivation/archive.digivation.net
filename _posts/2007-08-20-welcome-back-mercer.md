@@ -6,7 +6,7 @@ permalink: /2007/08/20/welcome-back-mercer
 categories:
   - Greek Life
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/08/mercer.jpg" alt="Mercer" class="right" />It&#8217;s that time again. Tearful parents saying good byes, bright eyed freshmen eager to explore the opportunities of college life (and freedom from the parents).
+<img src="http://archive.digivation.net/wp-content/uploads/2007/08/mercer.jpg" alt="Mercer" class="right" />It&#8217;s that time again. Tearful parents saying good byes, bright eyed freshmen eager to explore the opportunities of college life (and freedom from the parents).
 
 And Greek Rush.
 

@@ -12,7 +12,7 @@ tags:
   - login
   - Wordpress
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/08/key.thumbnail.jpg" alt="Key" class="right" />What if you could log into [WordPress][1] using [Facebook][2] authentication? I&#8217;ve recently been inspired to do more WordPress hacking thanks to the great discussions occurring at [WordPress Bits][3], and this is one of the random thoughts that crossed my mind the other day.
+<img src="http://archive.digivation.net/wp-content/uploads/2007/08/key.thumbnail.jpg" alt="Key" class="right" />What if you could log into [WordPress][1] using [Facebook][2] authentication? I&#8217;ve recently been inspired to do more WordPress hacking thanks to the great discussions occurring at [WordPress Bits][3], and this is one of the random thoughts that crossed my mind the other day.
 
 I know that this is possible in some shape or form between the [Facebook API][4] and the WordPress plugin system, I&#8217;m just not sure how to implement it.
 

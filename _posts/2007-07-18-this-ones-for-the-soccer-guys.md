@@ -20,5 +20,5 @@ Maybe even those who don&#8217;t. Apparently these are from GQ, though I&#8217;m
 Not only did I snag these from [Scaryideas][1], but this is a little trial of the [photo gallery][2] (currently unfinished). Click the pictures to view the full size image and find a few more on the [same topic][3].
 
  [1]: http://www.scaryideas.com
- [2]: http://digivation.net/wp-gallery2.php
- [3]: http://digivation.net/v/soccerchicks/
+ [2]: http://archive.digivation.net/wp-gallery2.php
+ [3]: http://archive.digivation.net/v/soccerchicks/

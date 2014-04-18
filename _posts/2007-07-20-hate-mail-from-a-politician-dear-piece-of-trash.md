@@ -9,7 +9,7 @@ tags:
   - humor
   - intolerance
 ---
-<a href="http://digivation.net/2007/07/20/hate-mail-from-a-politician-dear-piece-of-trash/drug-letter/" rel="attachment wp-att-357" title="Drug Letter"><img src="http://digivation.net/wp-content/uploads/2007/07/drugletter.thumbnail.gif" alt="Drug Letter" align="right" /></a>This letter to a drug dealer, while being rather funny, leads me to question the mental stability of the writer, a certain Michael Polensek. Mr. Polensek happens to be a city councilman in Cleveland, Ohio. The letter reads as follows, though you can click the image to the left to read the original or you can find out more about it at [The Smoking Gun][1]. Yet another reason we don&#8217;t like politicians.
+<a href="http://archive.digivation.net/2007/07/20/hate-mail-from-a-politician-dear-piece-of-trash/drug-letter/" rel="attachment wp-att-357" title="Drug Letter"><img src="http://archive.digivation.net/wp-content/uploads/2007/07/drugletter.thumbnail.gif" alt="Drug Letter" align="right" /></a>This letter to a drug dealer, while being rather funny, leads me to question the mental stability of the writer, a certain Michael Polensek. Mr. Polensek happens to be a city councilman in Cleveland, Ohio. The letter reads as follows, though you can click the image to the left to read the original or you can find out more about it at [The Smoking Gun][1]. Yet another reason we don&#8217;t like politicians.
 
 > Dear Mr. Winston:
 > 

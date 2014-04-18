@@ -40,7 +40,7 @@ Over the past year, I have employed Facebook for many things, including promotin
 
 The solution, as usual, came in the form of a simple reapplication of an existing feature. Facebook gives users the ability to upload a picture and then “tag” it with the names of people in the picture. Upon being “tagged,” the system sends each tagged user an email informing them that a new picture of them has been posted, as well as linking the picture to their account. I hypothesized that this could easily be used for my own means.
 
-<img src="http://digivation.net/wp-content/uploads/2006/08/get_ready.thumbnail.png" style="float: right" alt="Yes, I know the English isn't perfect - this was a rather hurried idea when it first developed." />
+<img src="http://archive.digivation.net/wp-content/uploads/2006/08/get_ready.thumbnail.png" style="float: right" alt="Yes, I know the English isn't perfect - this was a rather hurried idea when it first developed." />
 
 Using a simple graphic, I tagged every brother and many of the women and alumni who support our chapter. People received their emails, logged into their accounts, and went to find the new “picture” of them – simply to be reminded that recruitment is just around the corner. Simple, effective, and to the point – exactly what advertising was intended to be.
 
@@ -64,4 +64,4 @@ November 2006: I have added a selection of my recruitment materials! [Check them
 
  [1]: http://www.ato.org/
  [2]: http://www.atoaz.com/
- [3]: http://digivation.net/2006/11/04/ato-alpha-zeta-2006-recruitment-materials/
+ [3]: http://archive.digivation.net/2006/11/04/ato-alpha-zeta-2006-recruitment-materials/

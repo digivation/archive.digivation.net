@@ -13,7 +13,7 @@ tags:
   - Music
   - rookery
 ---
-<a href="http://digivation.net/wp-content/uploads/2007/09/n44300338_9366.jpg" rel="lightbox" title="DJ Dirrty Matt?"><img class="left" src="http://digivation.net/wp-content/uploads/2007/09/n44300338_9366.thumbnail.jpg" alt="DJ Dirrty Matt?" /></a>Just to throw out a little plug for Adam and myself, we&#8217;re &#8220;spinnin&#8217; on the ones and twos&#8221; this Friday at the Rookery for downtown Macon&#8217;s monthly &#8220;First Friday&#8221; event. We&#8217;ll be playing a smooth blend of rock, rap, old(ish) stuff, and whatever else pleases our auditory palette.
+<a href="http://archive.digivation.net/wp-content/uploads/2007/09/n44300338_9366.jpg" rel="lightbox" title="DJ Dirrty Matt?"><img class="left" src="http://archive.digivation.net/wp-content/uploads/2007/09/n44300338_9366.thumbnail.jpg" alt="DJ Dirrty Matt?" /></a>Just to throw out a little plug for Adam and myself, we&#8217;re &#8220;spinnin&#8217; on the ones and twos&#8221; this Friday at the Rookery for downtown Macon&#8217;s monthly &#8220;First Friday&#8221; event. We&#8217;ll be playing a smooth blend of rock, rap, old(ish) stuff, and whatever else pleases our auditory palette.
 
 It should go down like a smooth vodka on the rocks (some may argue that it&#8217;s &#8220;Mr. B&#8217;s&#8221; on the rocks, but whatever).
 

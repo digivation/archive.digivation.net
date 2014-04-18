@@ -14,7 +14,7 @@ categories:
 I don&#8217;t know if you have run across this yet, but Dub Custom Wheels is producing a new line of wheels (rims) called the &#8220;Pimpstar.&#8221; These amazing rims (if you&#8217;ve got the $19,500 for the 26&#8243; set &#8211; gotta go big on these babies) will definitely push your car over the edge and right into that mystic land known as &#8220;pimp-dom.&#8221; You will be able to **exhibit any message or image on your rims, as you drive**.
 
 <p style="text-align: center">
-  <img src="http://digivation.net/wp-content/uploads/2006/06/pimpstar.jpg" alt="Pimpstar Rims" id="image75" />
+  <img src="http://archive.digivation.net/wp-content/uploads/2006/06/pimpstar.jpg" alt="Pimpstar Rims" id="image75" />
 </p>
 
 For the juicy details:

@@ -10,7 +10,7 @@ tags:
   - vehicles
 ---
 <p style="text-align: center">
-  <img src="http://digivation.net/wp-content/uploads/2007/06/10cmdtsofdrving.jpg" alt="The Ten Commandments of Driving" />
+  <img src="http://archive.digivation.net/wp-content/uploads/2007/06/10cmdtsofdrving.jpg" alt="The Ten Commandments of Driving" />
 </p>
 
 While I sincerely appreciate my &#8220;partner in crime&#8221; looking out for my well being (and plan to print out a copy of the &#8220;[how to not get caught speeding][1]&#8221; list), it would appear that the good &#8216;ole Catholic church has decided to make a few decrees of their own. I present you the &#8220;[Ten Commandments of Driving][2].&#8221;
@@ -43,6 +43,6 @@ Nooooo heaven forbid!!
 
 Like I said, I&#8217;m not Catholic. Whooooo! I&#8217;m off to save up for that brand new Ferrari!
 
- [1]: http://digivation.net/2007/06/24/how-to-avoid-a-speeding-ticket/
+ [1]: http://archive.digivation.net/2007/06/24/how-to-avoid-a-speeding-ticket/
  [2]: http://www.cnn.com/2007/WORLD/europe/06/19/vatican.road.rage.ap/index.html
  [3]: http://today.reuters.com/news/articlenews.aspx?type=oddlyEnoughNews&storyid=2007-06-22T164715Z_01_EIC256489_RTRUKOC_0_US-FERRARI-SIN-ODD.xml

@@ -14,4 +14,4 @@ tags:
 I just finished up another short from the Kaolin Mines ([see part 1][1]), this time with more stills, better video, and more vehicles! This one&#8217;s definitely a basket of giggles. Oh, and my video editing skills are getting better (I think).
 
 
- [1]: http://digivation.net/2006/12/20/kaolin-mine-video/
+ [1]: http://archive.digivation.net/2006/12/20/kaolin-mine-video/

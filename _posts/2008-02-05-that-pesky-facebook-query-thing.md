@@ -10,7 +10,7 @@ tags:
   - open
   - social graph
 ---
-<img src="http://digivation.net/wp-content/uploads/2008/02/wiki_logo-3.png" class="right" alt="Facebook Wiki Logo" />A few days back, I mentioned that I wanted to [query my Facebook social graph][1] in order to pull out a list of my friends&#8217; websites. Why? To put the in my blog roll. Anyway, I was doing a little light reading today and came across some interesting posts centering around a topic I&#8217;ve read of before (but somehow forgot to put two and two together): The Open-ness of our social graphs.
+<img src="http://archive.digivation.net/wp-content/uploads/2008/02/wiki_logo-3.png" class="right" alt="Facebook Wiki Logo" />A few days back, I mentioned that I wanted to [query my Facebook social graph][1] in order to pull out a list of my friends&#8217; websites. Why? To put the in my blog roll. Anyway, I was doing a little light reading today and came across some interesting posts centering around a topic I&#8217;ve read of before (but somehow forgot to put two and two together): The Open-ness of our social graphs.
 
 Apparently the [desire][2] to get some data out of Facebook and into other apps has been around for a while. In fact, Google has created an [open graph API][3] to address just such a problem, and there are [several][4] other people who have been trying to devise a solution.
 
@@ -20,7 +20,7 @@ Apparently the [desire][2] to get some data out of Facebook and into other apps 
 
 Perhaps my Facebook Query dream will become a reality eventually. Of course there&#8217;s much more I want to do with Facebook&#8230; I think it would be awesome if the &#8220;social graph&#8221; could be pulled out and tied into other sites (imagine: you are logged into Facebook and you can visit my site, leaving a comment using your Facebook identity. Then it could show up in your feed that you left a comment here, just as if you left one on someone&#8217;s page&#8230; or all sorts of other cool stuff!)
 
- [1]: http://digivation.net/2008/01/30/i-want-to-query-facebook
+ [1]: http://archive.digivation.net/2008/01/30/i-want-to-query-facebook
  [2]: http://blog.broadbandmechanics.com/2007/09/open-letter-to-mark-zukerberg
  [3]: http://code.google.com/apis/socialgraph/
  [4]: http://www.dataportability.org/

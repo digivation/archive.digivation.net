@@ -20,7 +20,7 @@ In the news:
 
  [1]: http://googleblog.blogspot.com/2007/07/all-aboard.html
  [2]: http://grandcentral.com
- [3]: http://digivation.net/2007/06/26/grand-central-googles-newest-acquisition/
+ [3]: http://archive.digivation.net/2007/06/26/grand-central-googles-newest-acquisition/
  [4]: http://flickr.com/photos/rdr07/sets/72157600590001691/
  [5]: http://en.wikipedia.org/wiki/Kwik-E-Mart
  [6]: http://www.simpsonsmovie.com/

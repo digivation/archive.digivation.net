@@ -10,7 +10,7 @@ tags:
   - movies
   - politics
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/07/200px-sickoposter.jpg" alt="Sicko Poster" align="right" />I&#8217;ve been reading bits here and there about Michael Moore&#8217;s new movie &#8220;Sicko,&#8221; ([Wikipedia][1], [IMDB][2]) which supposedly exposes the horrors of the health care industry in America. Not surprisingly, the health care industry isn&#8217;t too happy about this, and has recently expressed a little bit of [concern][3].
+<img src="http://archive.digivation.net/wp-content/uploads/2007/07/200px-sickoposter.jpg" alt="Sicko Poster" align="right" />I&#8217;ve been reading bits here and there about Michael Moore&#8217;s new movie &#8220;Sicko,&#8221; ([Wikipedia][1], [IMDB][2]) which supposedly exposes the horrors of the health care industry in America. Not surprisingly, the health care industry isn&#8217;t too happy about this, and has recently expressed a little bit of [concern][3].
 
 Intrigued by all this [talk][4] (and [positive reactions][5]), I decided that maybe I should take a gander at this movie myself. However, it would seem that there are [no showings in Macon][6]. Guess I&#8217;ll be turning to the good &#8216;old [P2P][7] method of acquiring this movie. I&#8217;ll be back with a little review after I watch it. I&#8217;m no fan of Michael Moore (I&#8217;m actually rather indifferent), but if it&#8217;s good enough, I&#8217;ll look into offering a copy (most likely a download or directions on how to get it) for your consumption.
 

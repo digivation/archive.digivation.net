@@ -10,7 +10,7 @@ tags:
   - family
   - social network
 ---
-<img class="left" title="Facebook Wiki Logo" src="http://digivation.net/wp-content/uploads/2008/02/wiki_logo-3.png" alt="" width="124" height="155" />When I was a sophomore in college, Facebook was in its first iterations. I remember the day that Facebook added &#8220;Mercer University&#8221; to its list of supported colleges; everyone was talking about it and I had no idea what Facebook was &#8211; but I went and signed up. I can proudly say I was one of the first members of Facebook&#8217;s Mercer network.
+<img class="left" title="Facebook Wiki Logo" src="http://archive.digivation.net/wp-content/uploads/2008/02/wiki_logo-3.png" alt="" width="124" height="155" />When I was a sophomore in college, Facebook was in its first iterations. I remember the day that Facebook added &#8220;Mercer University&#8221; to its list of supported colleges; everyone was talking about it and I had no idea what Facebook was &#8211; but I went and signed up. I can proudly say I was one of the first members of Facebook&#8217;s Mercer network.
 
 How far we&#8217;ve come since those fledgling days a few short years ago. Facebook has gone from a barely-known college site to a household name with millions of users ranging from highschoolers to senior citizens. For the past couple of years, I&#8217;ve listened to my friends complain about their parents being on Facebook (and the same friends are also attentive picture-detaggers). I always found it humorous. I didn&#8217;t really thing anything of it when my father joined Facebook, and I am Facebook friends with a few of my friends&#8217; parents.
 

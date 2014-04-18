@@ -19,6 +19,6 @@ If you are curious (or bored), you can follow the progress of our CDR at the [Se
 
 As a side note, if anyone is curious, I&#8217;m using [DokuWiki][2], a very slim but powerful PHP-based Wiki software. And if you want to come to the presentation, it is scheduled for 1 PM on Wednesday, April 11th in room 204A of the Engineering Building at [Mercer University][3].
 
- [1]: http://digivation.net/senior_design/
+ [1]: http://archive.digivation.net/senior_design/
  [2]: http://wiki.splitbrain.org/wiki:dokuwiki
  [3]: http://maps.google.com/maps/ms?q=mercer+university&ie=UTF8&oe=UTF-8&client=firefox-a&num=10&om=1&hl=en&z=18&ll=32.827249,-83.649017&spn=0.003187,0.005021&t=h&msid=113001744340219610496.00000111cefe8ac56dd2b&msa=0

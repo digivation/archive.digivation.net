@@ -10,7 +10,7 @@ tags:
   - sharks
   - Technology
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/07/sharkrunners.jpg" alt="Sharkrunners" align="right" />If you&#8217;re looking to waste a little time (and possibly learn something in the process), the Discovery Channel has a new [game/promotional website][1] that enables you to track sharks. The cool part? While the boats may be virtual, the sharks and their positions are real, thanks to the wonders of GPS tracking and the internet. I just created my profile (I&#8217;m digivation if you&#8217;re looking for a rival), set some waypoints, and now I&#8217;m waiting for my first sighting.
+<img src="http://archive.digivation.net/wp-content/uploads/2007/07/sharkrunners.jpg" alt="Sharkrunners" align="right" />If you&#8217;re looking to waste a little time (and possibly learn something in the process), the Discovery Channel has a new [game/promotional website][1] that enables you to track sharks. The cool part? While the boats may be virtual, the sharks and their positions are real, thanks to the wonders of GPS tracking and the internet. I just created my profile (I&#8217;m digivation if you&#8217;re looking for a rival), set some waypoints, and now I&#8217;m waiting for my first sighting.
 
 > Players are given a virtual boat and virtual crew. They use it to track real-life sharks that have been tagged with a GPS recievers. When a boat encounters a shark the player is alerted via email and/or SMS. The player has three hours to select how to try to collect data about the shark and its behavior. The goal is to gather as much data about sharks as possible. ([from here][2])
 

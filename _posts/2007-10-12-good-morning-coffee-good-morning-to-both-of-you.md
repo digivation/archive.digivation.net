@@ -32,7 +32,7 @@ Anyway, without further ado, here is Good Morning Coffee &#8211; the country and
 
 Enjoy, and keep an ear out for some great new music from [David][5] &#8211; there&#8217;s some awesome new stuff on the horizon!
 
- [1]: http://digivation.net/2007/06/29/dave-does-la-bamba
+ [1]: http://archive.digivation.net/2007/06/29/dave-does-la-bamba
  [2]: http://johncomeaux.com/
  [3]: http://www.davidcomeaux.com/2007/08/15/good-morning-coffee-country/
  [4]: http://www.davidcomeaux.com/2007/08/31/good-morning-coffee-blues-version/

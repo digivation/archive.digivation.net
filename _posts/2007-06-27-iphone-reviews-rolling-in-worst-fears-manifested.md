@@ -11,7 +11,7 @@ tags:
   - iphone
   - Technology
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/06/iphone.jpg" alt="iPhone" align="right" />Just as everyone feared, the iPhone actually rather revolutionary.
+<img src="http://archive.digivation.net/wp-content/uploads/2007/06/iphone.jpg" alt="iPhone" align="right" />Just as everyone feared, the iPhone actually rather revolutionary.
 
 Up to this point I have refrained from [mentioning much][1] about the [iPhone][2], despite it&#8217;s imminent release, but I recently spied some early reviews from a few lucky journalists who have been playing with it for the past two weeks, unable to comment until now (due to <strike>selling their soul to</strike> agreements with Apple). Most of the reviews concur: the iPhone deserves the hype; other cell phone manufacturers quake in their boots (figuratively speaking).
 
@@ -38,7 +38,7 @@ Add this one to the &#8220;bad&#8221; (one that I forgot to mention) &#8211; the
 
 That is absolutely unacceptable and ridiculous. I can easily hook my Razr up to the computer, make an MP3 clip, and load it on my phone for use as a ringtone &#8211; all without paying a dime extra! The only restriction? The file must be under 500kb. What gives Apple/AT&T? Also of note: this feature is not currently available, according to the reviewers, so you are stuck with the 25 factory ringtones.
 
- [1]: http://digivation.net/2007/06/23/apple-iphone/
+ [1]: http://archive.digivation.net/2007/06/23/apple-iphone/
  [2]: http://apple.com/iphone/
  [3]: #review-links
  [4]: http://solution.allthingsd.com/20070626/the-iphone-is-breakthrough-handheld-computer/

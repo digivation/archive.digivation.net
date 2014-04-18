@@ -24,7 +24,7 @@ Well, I suppose that covers most of it. I&#8217;m spending the weekend in Columb
 
  [1]: http://davidcomeaux.com
  [2]: http://desiree.davidcomeaux.com
- [3]: http://digivation.net/2007/06/12/cajun-wedding/
+ [3]: http://archive.digivation.net/2007/06/12/cajun-wedding/
  [4]: http://www.dpreview.com/reviews/sonydslra100/
  [5]: http://www.dpreview.com/articles/nikond80/
  [6]: http://upgradetravel.blogspot.com/2006/08/food-fight-yes-that-is-banana-in-my.html

@@ -14,7 +14,7 @@ tags:
   - random
   - thankful
 ---
-Well it seems that here we are, stuck smack-dab in the center of the &#8220;holiday season,&#8221; for all its&#8217; joy and consumerism. Of course, financially this is shaping up to be one of the worst holiday seasons in the past seven, twenty-five, or seventy-eight years, depending upon where and on what day you get your news. Many, including myself, are predicting fiscal gloom for the next several months at the least. But no worries, its&#8217; still the holidays and there are always lots of things one can be happy, thankful, or at least non-suicidal about.<img class="right" title="Be happy! And yes, I used this same picture last Christmas." src="http://digivation.net/wp-content/uploads/2007/12/charliebrowntree.jpg" alt="Be happy!" width="380" height="259" />
+Well it seems that here we are, stuck smack-dab in the center of the &#8220;holiday season,&#8221; for all its&#8217; joy and consumerism. Of course, financially this is shaping up to be one of the worst holiday seasons in the past seven, twenty-five, or seventy-eight years, depending upon where and on what day you get your news. Many, including myself, are predicting fiscal gloom for the next several months at the least. But no worries, its&#8217; still the holidays and there are always lots of things one can be happy, thankful, or at least non-suicidal about.<img class="right" title="Be happy! And yes, I used this same picture last Christmas." src="http://archive.digivation.net/wp-content/uploads/2007/12/charliebrowntree.jpg" alt="Be happy!" width="380" height="259" />
 
 Let us pause and reflect:
 

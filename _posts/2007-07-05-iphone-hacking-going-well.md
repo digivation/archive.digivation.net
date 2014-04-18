@@ -9,7 +9,7 @@ tags:
   - iphone
   - Technology
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/06/iphone.jpg" alt="iPhone" align="right" />It would [appear][1] [that][2] the iPhone has been activated on a non-AT&#038;T network. The haxors are hard at work, bringing cool features to your new $600 toy! Current roadmap:
+<img src="http://archive.digivation.net/wp-content/uploads/2007/06/iphone.jpg" alt="iPhone" align="right" />It would [appear][1] [that][2] the iPhone has been activated on a non-AT&#038;T network. The haxors are hard at work, bringing cool features to your new $600 toy! Current roadmap:
 
 > *   Break DMG Password \*COMPLETE\*
 > *   Break Activation \*COMPLETE\*

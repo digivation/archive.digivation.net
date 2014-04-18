@@ -10,7 +10,7 @@ tags:
   - life
   - weekend
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/07/martini.thumbnail.jpg" alt="Martini" align="right" />And now for a quick post from the &#8220;road.&#8221;
+<img src="http://archive.digivation.net/wp-content/uploads/2007/07/martini.thumbnail.jpg" alt="Martini" align="right" />And now for a quick post from the &#8220;road.&#8221;
 
 I&#8217;m currently chillin&#8217; in Midtown Atlanta with the illustrious Ms Stephens. Last night was a blast; we met up with Rob, Trey, Robert, Grace, Leilah, and her friend Emily. We then went out for a &#8220;night on the town,&#8221; so to speak. Dinner at the [Spaghetti Factory][1], then a salsa dancing at some little place (I forgot the name), finally topped off with a drag show at Hoedowns. Oh and I got to see [The Lady Chablis][2]. I really wish I&#8217;d gotten a picture with her.
 

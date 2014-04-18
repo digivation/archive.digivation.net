@@ -30,9 +30,9 @@ If you have any ideas or suggestions, be sure to leave a comment!
  [1]: http://en.wikipedia.org/wiki/Vannevar_Bush
  [2]: http://en.wikipedia.org/wiki/Memex
  [3]: http://sciam.com/print_version.cfm?articleID=CC50D7BF-E7F2-99DF-34DA5FF0B0A22B50
- [4]: http://digivation.net/2007/07/02/cds-vs-music-files/
+ [4]: http://archive.digivation.net/2007/07/02/cds-vs-music-files/
  [5]: http://www.davidcomeaux.com/2007/04/02/a-musical-snack-an-esoteric-tale-and-an-observation/
- [6]: http://digivation.net/2007/07/02/cds-vs-music-files/#comment-6627
+ [6]: http://archive.digivation.net/2007/07/02/cds-vs-music-files/#comment-6627
  [7]: http://diveintomark.org/
  [8]: http://diveintomark.org/archives/2006/05/08/backup
  [9]: http://www.strongspace.com/

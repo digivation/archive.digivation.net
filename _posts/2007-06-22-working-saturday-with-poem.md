@@ -35,4 +35,4 @@ And thus, I shall be a-workin&#8217; tomorrow. The eight to five, all by my lone
 
 Update: Ever the helpful one, my cohort Chappie has posted a few [tips for avoiding speeding tickets][1]. I&#8217;m saved!
 
- [1]: http://digivation.net/2007/06/24/how-to-avoid-a-speeding-ticket/
+ [1]: http://archive.digivation.net/2007/06/24/how-to-avoid-a-speeding-ticket/

@@ -9,7 +9,7 @@ tags:
   - google
   - web2.0
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/06/phone-to-net.jpg" alt="Net + Phone = ?" align="right" />According to [TechCrunch][1], Google is in the process of acquiring [Grand Central][2]. Immediately intrigued by what Google could possibly be up to now, and having never heard of &#8220;Grand Central,&#8221; I proceeded to investigate. After reading through their laundry list of [features][3], I think that this acquisition will pave the way for a host of exciting new Google tricks &#8211; and with that oh-so-slick GoogleApps interface we all <strike>love</strike> <strike>hate</strike> enjoy using. In fact, I&#8217;m not exactly sure how I managed to miss this one when they rolled out their beta service last October.
+<img src="http://archive.digivation.net/wp-content/uploads/2007/06/phone-to-net.jpg" alt="Net + Phone = ?" align="right" />According to [TechCrunch][1], Google is in the process of acquiring [Grand Central][2]. Immediately intrigued by what Google could possibly be up to now, and having never heard of &#8220;Grand Central,&#8221; I proceeded to investigate. After reading through their laundry list of [features][3], I think that this acquisition will pave the way for a host of exciting new Google tricks &#8211; and with that oh-so-slick GoogleApps interface we all <strike>love</strike> <strike>hate</strike> enjoy using. In fact, I&#8217;m not exactly sure how I managed to miss this one when they rolled out their beta service last October.
 
 **<big>What It Is, Yo?</big>**
 

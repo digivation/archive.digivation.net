@@ -11,7 +11,7 @@ tags:
 ---
 I saw this and couldn&#8217;t resist.
 
-[<img class="center" title="Dickburg" src="http://digivation.net/wp-content/uploads/2008/09/icebergrex_450x300.jpg" alt="" width="450" height="300" />][1]
+[<img class="center" title="Dickburg" src="http://archive.digivation.net/wp-content/uploads/2008/09/icebergrex_450x300.jpg" alt="" width="450" height="300" />][1]
 
 Read the whole story [here][1]. I guess we are literally about to get f&#8217;ed by [global warming][2], eh?
 

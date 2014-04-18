@@ -10,4 +10,4 @@ Over the next few days I&#8217;ll be (finally) working on the gallery to get it 
 
 In other news, my brother bought something interesting&#8230;
 
-<a href="http://digivation.net/wp-content/uploads/2008/02/andrews_porsche.jpg" rel="lightbox" title="Andrew’s Porsche"><img src="http://digivation.net/wp-content/uploads/2008/02/andrews_porsche.thumbnail.jpg" class="center" alt="Andrew’s Porsche" /></a>
+<a href="http://archive.digivation.net/wp-content/uploads/2008/02/andrews_porsche.jpg" rel="lightbox" title="Andrew’s Porsche"><img src="http://archive.digivation.net/wp-content/uploads/2008/02/andrews_porsche.thumbnail.jpg" class="center" alt="Andrew’s Porsche" /></a>

@@ -28,5 +28,5 @@ Telephony equipment uses forty-eight volts DC for very simple reasons: DC does n
 
 The negative polarity is much more elusive, but can be summed up in one word: corrosion. Thanks to a bit of research performed by Sir Humphry Davy for the British Navy, we have a technology known as “[cathodic protection][2].” First developed to keep the copper hulls of British naval ships from corroding, this technology has been applied to protecting everything from oilrigs to gas pipelines to telephony cabinets. By keeping the cabinet frame at a more positive voltage than ground, corrosion is reduced and the life of the equipment is increased. Who would have guessed?
 
- [1]: http://digivation.net/2006/06/08/job-title-engineering-bitch/
+ [1]: http://archive.digivation.net/2006/06/08/job-title-engineering-bitch/
  [2]: http://en.wikipedia.org/wiki/Cathodic_protection

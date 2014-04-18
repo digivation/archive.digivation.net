@@ -10,7 +10,7 @@ ljID:
 categories:
   - Journal
 ---
-<img src="http://digivation.net/wp-content/uploads/2006/06/card.png" align="right" />Yes, it would seem that this summer will be spent putting in good solid time as &#8220;the co-op,&#8221; &#8220;the intern,&#8221; or any other stereotype you can think of. However you cut the cake, I get to do the bitch work &#8211; that repetitive mindless stuff, like copying updates from one AutoCAD drawing to another, or submitting forms to pass the bureaucratic red tape. Before we go any further, let me assure you that **I don&#8217;t mind**; I view this as an opportunity to do the following:
+<img src="http://archive.digivation.net/wp-content/uploads/2006/06/card.png" align="right" />Yes, it would seem that this summer will be spent putting in good solid time as &#8220;the co-op,&#8221; &#8220;the intern,&#8221; or any other stereotype you can think of. However you cut the cake, I get to do the bitch work &#8211; that repetitive mindless stuff, like copying updates from one AutoCAD drawing to another, or submitting forms to pass the bureaucratic red tape. Before we go any further, let me assure you that **I don&#8217;t mind**; I view this as an opportunity to do the following:
 
 *   further my resume
 *   make a lot of cash (relatively speaking)

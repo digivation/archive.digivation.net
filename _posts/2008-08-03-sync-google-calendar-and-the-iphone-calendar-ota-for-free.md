@@ -13,7 +13,7 @@ tags:
   - nuevasync
   - synchronization
 ---
-<img class="right" title="GCal + iPhone FTW!!" src="http://digivation.net/wp-content/uploads/2008/08/gcal-iphone.png" alt="GCal + iPhone" width="150" height="182" />
+<img class="right" title="GCal + iPhone FTW!!" src="http://archive.digivation.net/wp-content/uploads/2008/08/gcal-iphone.png" alt="GCal + iPhone" width="150" height="182" />
 
 Over the past few days, I&#8217;ve been enjoying my new iPhone 3G immensely. There are a few annoyances, such as buggy software, a little DRM issue I had with the app store, and various other things. However, one issue that was really bothering me was the inability to sync my iPhone calendar with my Google Calendars. I keep all of my events on my Google Calendar, using several calendars (some of which are shared) to keep up with everything.
 

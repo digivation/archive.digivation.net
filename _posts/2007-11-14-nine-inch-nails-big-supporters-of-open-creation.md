@@ -11,7 +11,7 @@ tags:
   - open
   - remix
 ---
-<a href="http://digivation.net/wp-content/uploads/2007/11/halo25_sm.jpg" rel="lightbox" title="Halo 25"><img src="http://digivation.net/wp-content/uploads/2007/11/halo25_sm.thumbnail.jpg" class="right" alt="Halo 25" /></a>As you all know (or should), we here at digivation love all things open and wonderful. And that makes me happy to note that while surfing the &#8216;net I ran across a new NIN remix CD, [Y34RZ3R0R3M1X3D][1] (Year Zero Remixed). The album itself is actually quite enjoyable, but the most fantastic part of the deal is found at the bottom of the page:
+<a href="http://archive.digivation.net/wp-content/uploads/2007/11/halo25_sm.jpg" rel="lightbox" title="Halo 25"><img src="http://archive.digivation.net/wp-content/uploads/2007/11/halo25_sm.thumbnail.jpg" class="right" alt="Halo 25" /></a>As you all know (or should), we here at digivation love all things open and wonderful. And that makes me happy to note that while surfing the &#8216;net I ran across a new NIN remix CD, [Y34RZ3R0R3M1X3D][1] (Year Zero Remixed). The album itself is actually quite enjoyable, but the most fantastic part of the deal is found at the bottom of the page:
 
 > Incudes CD with same track listing as digital download (see above). **Also includes a DVD ROM (not a movie) that contains every track from Year Zero in multitrack format for you to do with what you please.** Mac or PC.
 > 

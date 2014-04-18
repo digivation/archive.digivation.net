@@ -28,6 +28,6 @@ These are just a few preliminary ideas that I have come up with while contemplat
 
 Over the next few days and weeks, I&#8217;ll be creating mock-ups and looking for inspiration. If you have any suggestions or ideas on how to tackle some of the outlined problems, please do not hesitate to leave a comment!
 
- [1]: http://digivation.net/2006/07/06/new-digivation-k2-style/
- [2]: http://digivation.net/2007/06/22/and-now-id-like-to-introduce/
- [3]: http://digivation.net/2007/06/25/july-goals/
+ [1]: http://archive.digivation.net/2006/07/06/new-digivation-k2-style/
+ [2]: http://archive.digivation.net/2007/06/22/and-now-id-like-to-introduce/
+ [3]: http://archive.digivation.net/2007/06/25/july-goals/

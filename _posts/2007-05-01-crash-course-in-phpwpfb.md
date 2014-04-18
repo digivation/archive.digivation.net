@@ -24,4 +24,4 @@ Please, if you have any comments, suggestions, encouragements, critiques, or oth
  [2]: http://wordpress.org
  [3]: http://facebook.com
  [4]: http://twitter.com
- [5]: http://digivation.net/wordpress/wp_facebook_status/
+ [5]: http://archive.digivation.net/wordpress/wp_facebook_status/

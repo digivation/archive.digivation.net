@@ -30,7 +30,7 @@ Right &#8230;. naked Christians &#8230; yep, I&#8217;m staying FAR away from the
 
 **Kodak assvertises on Ukrainian models&#8217; butts**
 
-> <img src="http://digivation.net/wp-content/uploads/2006/04/kodakass1.jpg" class="left" />Snip from thespunker.com: &#8220;[Assvertising][1] was so great you knew it would be copied. (&#8230;) Apparently, Kodak used the derriere media placement during a photo convention in Kiev, Ukraine. At least two hot women were hired to wear ridiculously short mini skirts with Kodak logoed panties underneath and then drops things on the convention floor and pick them up.&#8221; [<a href="http://gattacainc.typepad.com/my_weblog/2005/12/kodak_assvertis.html" target="_blank">Link</a>]
+> <img src="http://archive.digivation.net/wp-content/uploads/2006/04/kodakass1.jpg" class="left" />Snip from thespunker.com: &#8220;[Assvertising][1] was so great you knew it would be copied. (&#8230;) Apparently, Kodak used the derriere media placement during a photo convention in Kiev, Ukraine. At least two hot women were hired to wear ridiculously short mini skirts with Kodak logoed panties underneath and then drops things on the convention floor and pick them up.&#8221; [<a href="http://gattacainc.typepad.com/my_weblog/2005/12/kodak_assvertis.html" target="_blank">Link</a>]
 
 Yea, I agree&#8230; that&#8217;s \_____ (that means, you don&#8217;t actually know &#8217;cause I&#8217;m not admitting to anything!). Till next time, enjoy yourselves!
 

@@ -19,4 +19,4 @@ Despite the wonderfulness of the summer, I have missed everyone from Macon and I
 Oh, and congratulations on your beautiful wife Ryan!
 
  [1]: http://www.emersonnetworkpower.com/
- [2]: http://digivation.net/2006/11/04/ato-alpha-zeta-2006-recruitment-materials/
+ [2]: http://archive.digivation.net/2006/11/04/ato-alpha-zeta-2006-recruitment-materials/

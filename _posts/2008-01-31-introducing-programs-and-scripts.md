@@ -15,7 +15,7 @@ tags:
   - wmi
   - wsh
 ---
-<img src="http://digivation.net/wp-content/uploads/2008/01/code.png" class="right" alt="Code" />Ladies and gentlemen, today I would like to direct your attention to the new link in the right side bar entitled &#8220;[Programs and Scripts][1].&#8221; This page will contain handy bits of code developed by myself (or any of my esteemed colleagues) and presented here for your programming gratification!
+<img src="http://archive.digivation.net/wp-content/uploads/2008/01/code.png" class="right" alt="Code" />Ladies and gentlemen, today I would like to direct your attention to the new link in the right side bar entitled &#8220;[Programs and Scripts][1].&#8221; This page will contain handy bits of code developed by myself (or any of my esteemed colleagues) and presented here for your programming gratification!
 
 The inaugural bit of code available here is called &#8220;[wmiRegistryTools.js][2]&#8221; and provides JavaScript methods (only for use in [WSH][3]) to interact with the [WMI][4] interface. The library is probably only of interest to people involved in network administration because it simplifies scripted registry edits. The cool part is that you can perform these edits on remote computers&#8230;
 

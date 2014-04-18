@@ -10,7 +10,7 @@ tags:
 ---
 In addition to being a rather slow day news-wise, I have been rather busy at work today. Fortunately a few jewels sparkled from underneath the murk of the day&#8217;s political propaganda, iPhone malarkey, and other nonsense:
 
-*   <img src="http://digivation.net/wp-content/uploads/2007/06/pictures_chevy-side5b.jpg" alt="Mini V8" align="right" />Miniature Working Engines: NYT has an [article][1] about the hobbyists who make miniature **working **internal combustion engines! These are the coolest things ever, like a [1/6 scale working Corvette 327][2]. Yea, get this while its hot! Found on [BoingBoing][3], related to the guy who made the [1/3 scale working Ferrari][4] ([video][5]). Check out [these][6] [links][7] for more information.
+*   <img src="http://archive.digivation.net/wp-content/uploads/2007/06/pictures_chevy-side5b.jpg" alt="Mini V8" align="right" />Miniature Working Engines: NYT has an [article][1] about the hobbyists who make miniature **working **internal combustion engines! These are the coolest things ever, like a [1/6 scale working Corvette 327][2]. Yea, get this while its hot! Found on [BoingBoing][3], related to the guy who made the [1/3 scale working Ferrari][4] ([video][5]). Check out [these][6] [links][7] for more information.
 *   Paris Hilton Prison Sketch: who knew, she&#8217;s [also an artisté][8]! Also from [BoingBoing][9].
 
 Enjoy the articles. I&#8217;m off to do a little running and eat supper.

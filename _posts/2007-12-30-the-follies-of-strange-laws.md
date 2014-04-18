@@ -10,7 +10,7 @@ tags:
   - laws
   - wireless
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/12/booksandgavela.thumbnail.jpg" class="right" alt="booksandgavela.jpg" />My friend David just sent me an interesting email about the Apple MacBook and its hidden wireless capabilities. From David:
+<img src="http://archive.digivation.net/wp-content/uploads/2007/12/booksandgavela.thumbnail.jpg" class="right" alt="booksandgavela.jpg" />My friend David just sent me an interesting email about the Apple MacBook and its hidden wireless capabilities. From David:
 
 > This is funny. Apparently I can upgrade my MacBook to add the 802.11n wireless standard for $2, no joke. Apparently Apple has been shipping their computers with hidden wireless n capabilities. They had it disabled because the FCC had not yet approved the new standard. So my MacBook has 802.11n and I never new it, hooray. However, Apple has to charge for the software that enables the 802.11n capabilities because of some strange law, that has to do with accounting practices. Because of the [Sarbanes-Oxley Act][1], if a company sells a product then later adds a feature to that product, it can be held liable for improper accounting if it recognizes revenue from the product at the time of sale, given that it hasn&#8217;t finished delivering the product at that point. Ridiculous.
 > 

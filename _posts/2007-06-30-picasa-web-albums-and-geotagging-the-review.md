@@ -11,7 +11,7 @@ tags:
   - review
   - web2.0
 ---
-<img align="right" alt="" src="http://digivation.net/wp-content/uploads/2007/06/googlelogo.thumbnail.gif" />In a [prior article][1], I made a reference to a few recent updates to a couple of Google Apps; namely [Picasa Web Albums][2] and [Google Docs][3]. I merely mentioned the addition of new features as I didn&#8217;t have time to investigate further.
+<img align="right" alt="" src="http://archive.digivation.net/wp-content/uploads/2007/06/googlelogo.thumbnail.gif" />In a [prior article][1], I made a reference to a few recent updates to a couple of Google Apps; namely [Picasa Web Albums][2] and [Google Docs][3]. I merely mentioned the addition of new features as I didn&#8217;t have time to investigate further.
 
 After returning to Macon (where all my pictures reside), I decided to take a deeper look at Picasa Web Albums. I had never used the web albums feature of [Picasa][4] and was a little skeptical of the service (in all honesty, I wish that Google would also allow Picasa to upload photos directly to Facebook). I have accounts on Facebook (great for social photo sharing), Flickr (great for browsing images), and Zooomr (because it was new), but I really only use Facebook due to the large network of friends and the account limits imposed by the other services (however, it would be great if Facebook would store full-size images). Despite my prolonged use of other online photo sharing services, I have never geotagged a picture. For those of you not "in the know," geotagging is the process of adding location information to a picture.
 
@@ -21,7 +21,7 @@ My only gripe is the size of the thumbnails. There were a few photos that looked
 
 It would also seem that Google is now offering 1024 MB of free space for your photographs, so I recommend giving it a spin even if you don&#8217;t plan on using it often. I don&#8217;t know if I&#8217;ll upload many more pictures to my web album, but you can view the sample album [here][5]. Be sure and click on "view map" to see the geotagging in action!
 
- [1]: http://digivation.net/2007/06/27/the-days-dose-of-google/
+ [1]: http://archive.digivation.net/2007/06/27/the-days-dose-of-google/
  [2]: http://picasaweb.google.com
  [3]: http://docs.google.com
  [4]: http://picasa.google.com

@@ -12,6 +12,6 @@ After making a quick check of the past few post dates, I just made a stunning re
 
 Man. I suck at life.
 
-Guess having a new writing cohort is doing wonders! <img src="http://digivation.net/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
+Guess having a new writing cohort is doing wonders! <img src="http://archive.digivation.net/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
 
 Now if five o&#8217;clock would just hurry up and get here&#8230;

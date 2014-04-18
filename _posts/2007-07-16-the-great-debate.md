@@ -9,7 +9,7 @@ tags:
   - harry_potter
   - j_k_rowling
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/07/hpdhcover.jpg" alt="harry potter and the deathly hallows" align="left" />To kill Harry Potter, or not to kill him, that is the question facing J.K. Rowling. Of course everyone is wondering and speculating as to which she <strike>will choose</strike> has chosen, but I&#8217;d like to take a more in depth look at this. I see the real question here being would she like to continue making bank on the cash cow that is Harry Potter, or will she seal her fate as the renowned author of the classic Harry Potter series.
+<img src="http://archive.digivation.net/wp-content/uploads/2007/07/hpdhcover.jpg" alt="harry potter and the deathly hallows" align="left" />To kill Harry Potter, or not to kill him, that is the question facing J.K. Rowling. Of course everyone is wondering and speculating as to which she <strike>will choose</strike> has chosen, but I&#8217;d like to take a more in depth look at this. I see the real question here being would she like to continue making bank on the cash cow that is Harry Potter, or will she seal her fate as the renowned author of the classic Harry Potter series.
 
 Option 1: Let Harry live and continue writing his story. A very tempting option, I am sure. The total package (books, movies, video games, etc.) have earned Rowling a reported $4 billion. So, if you consider the per-book earnings, you are looking at around half a billion dollars (yes folks, that&#8217;s $500 million) per book. Let&#8217;s think about this, all you have to do is let him live, and you have not only allowed yourself a huge window for future stories, but given yourself the necessary advertising impetus for the loyal readers.
 

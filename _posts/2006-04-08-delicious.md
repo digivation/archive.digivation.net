@@ -12,4 +12,4 @@ I know I&#8217;m a little behind the times. Maybe I&#8217;m a bit hard-headed at
 
 **Update:** if anyone reading this uses del.icio.us, I&#8217;d love to add your username to my <a href="http://del.icio.us/inbox/matthew.smith" target="_blank" title="del.icio.us inbox">inbox</a>. Just leave a comment to this post.
 
- [1]: http://digivation.net/2006/01/24/welcome-back/
+ [1]: http://archive.digivation.net/2006/01/24/welcome-back/

@@ -10,7 +10,7 @@ tags:
   - matthew
   - smith
 ---
-<img class="right" title="Cheers!" src="http://digivation.net/wp-content/uploads/2008/08/cheers-smitty.jpg" alt="" width="200" height="300" />My friends, let me start by once again offering my sincerest apologies for my severe writing deficit. It has been quite some time since I provided you with regular glimpses into my life or posted bits of random goodness for you to contemplate. For this I must apologize; everyone knows, that it is not due to a lack of things to talk about&#8230; it is because I haven&#8217;t made the time to tell you about it.
+<img class="right" title="Cheers!" src="http://archive.digivation.net/wp-content/uploads/2008/08/cheers-smitty.jpg" alt="" width="200" height="300" />My friends, let me start by once again offering my sincerest apologies for my severe writing deficit. It has been quite some time since I provided you with regular glimpses into my life or posted bits of random goodness for you to contemplate. For this I must apologize; everyone knows, that it is not due to a lack of things to talk about&#8230; it is because I haven&#8217;t made the time to tell you about it.
 
 In today&#8217;s installment, I feel that it is only right to bring everyone up to speed on the &#8220;adventures of Matthew.&#8221; So much has happened since I last wrote you that I hardly know where to begin. So pull up a chair, grab a warm cup of tea, and let us start at, well, the end of the beginning.
 

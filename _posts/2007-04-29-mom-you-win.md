@@ -20,4 +20,4 @@ Thus, with a bit of mom&#8217;s advice and a bit of painful &#8220;mom was right
 
 Being a computer nerd, I&#8217;m off looking for software, but if anyone has any suggestions on how to go about this feat, I&#8217;m all ears!
 
- [1]: http://digivation.net/2006/07/20/the-summer-of-i-want/
+ [1]: http://archive.digivation.net/2006/07/20/the-summer-of-i-want/

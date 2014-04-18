@@ -20,7 +20,7 @@ Google has given [Google Docs][1] a makeover. Flashy new icons, a nice list of a
 Apparently you can now [Geotag][5] your [Picasa web albums][6] for viewing in [Google Earth][7] or on [Google Maps][8]. Additionally, there is a new mobile interface so you can view your web albums on your phone. I&#8217;m more interested in the ability to geotag photos than the ability to look at my pictures on the phone (since I&#8217;m still in the dark ages with no data plan on my phone), but I&#8217;m sure the mobile interface will be great for many people. I am yet to use Picasa web albums (I have used Flickr and Facebook, in addition to my hosted and currently private photo gallery), but may give them a spin with the introduction of this feature. Read more about it on the [Google Blog][9].
 
 <p style="text-align: center">
-  <img src="http://digivation.net/wp-content/uploads/2007/06/googlelogo.gif" alt="Google Logo" />
+  <img src="http://archive.digivation.net/wp-content/uploads/2007/06/googlelogo.gif" alt="Google Logo" />
 </p>
 
  [1]: http://docs.google.com

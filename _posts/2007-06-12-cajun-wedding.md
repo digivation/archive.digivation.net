@@ -32,7 +32,7 @@ Saturday afternoon was spent hanging out with the family and the newly-weds, pla
 > **Congratulations to David and Desiree &#8211; May you have a long and happy marriage, no matter what life may throw your way.**
 > 
 > <p align="center">
->   <img src="http://digivation.net/wp-content/uploads/2007/06/married.jpg" alt="Dave and Des" />
+>   <img src="http://archive.digivation.net/wp-content/uploads/2007/06/married.jpg" alt="Dave and Des" />
 > </p>
 
  [1]: http://desiree.davidcomeaux.com

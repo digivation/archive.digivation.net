@@ -12,7 +12,7 @@ tags:
   - martha blalock hawkins jolley
   - obituary
 ---
-<a href="http://digivation.net/wp-content/uploads/2008/02/marthablalockhawkinsjolley.jpg" rel="lightbox" title="My Grandmother"><img src="http://digivation.net/wp-content/uploads/2008/02/marthablalockhawkinsjolley.thumbnail.jpg" class="right" alt="My Grandmother" /></a>Shortly after midnight on Saturday (2/16/2008) morning, my grandmother passed away. I will soon write a longer piece on this, but for now I&#8217;m just posting her obituary.
+<a href="http://archive.digivation.net/wp-content/uploads/2008/02/marthablalockhawkinsjolley.jpg" rel="lightbox" title="My Grandmother"><img src="http://archive.digivation.net/wp-content/uploads/2008/02/marthablalockhawkinsjolley.thumbnail.jpg" class="right" alt="My Grandmother" /></a>Shortly after midnight on Saturday (2/16/2008) morning, my grandmother passed away. I will soon write a longer piece on this, but for now I&#8217;m just posting her obituary.
 
 > **Martha Blalock Hawkins Jolley**
 > 
@@ -26,6 +26,6 @@ tags:
 
 The [pictures][1] and [video][2] that will be displayed at the visitation are the same ones that I worked with on the &#8220;[family photo project][3].&#8221;
 
- [1]: http://digivation.net/familyphotos/
- [2]: http://digivation.net/familyphotos/video/
- [3]: http://digivation.net/2008/01/05/family-picture-project
+ [1]: http://archive.digivation.net/familyphotos/
+ [2]: http://archive.digivation.net/familyphotos/video/
+ [3]: http://archive.digivation.net/2008/01/05/family-picture-project

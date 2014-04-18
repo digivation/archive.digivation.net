@@ -24,11 +24,11 @@ So now, almost a year later, I have decided to return once again to my little [S
 
 I hope to someday be able to Google &#8220;Matthew Smith&#8221; and find my website in the top 10. A number one spot would be really cool, but to get that I&#8217;m gonna have to release something cool and get a bunch of link love. Either that or blog about myself a lot more&#8230; on a side note, [Dave][8] is lucky &#8211; he has the number one spot for &#8220;David Comeaux.&#8221; But in my defense, there are a lot more &#8220;Matthew Smiths&#8221; out there, and his name is in his url, which gives him several points in the search results.
 
- [1]: http://digivation.net/2006/07/27/search-engine-rankings/
+ [1]: http://archive.digivation.net/2006/07/27/search-engine-rankings/
  [2]: http://www.google.com/search?hl=en&q=matthew+smith
  [3]: http://www.google.com/search?hl=en&q=matthew+a+smith
  [4]: http://www.google.com/search?hl=en&q=matthew+aaron+smith
  [5]: http://www.google.com/search?hl=en&q=digivation
- [6]: http://digivation.net/2006/08/07/update-search-engine-rankings/
+ [6]: http://archive.digivation.net/2006/08/07/update-search-engine-rankings/
  [7]: http://en.wikipedia.org/wiki/Search_engine_optimization
  [8]: http://www.davidcomeaux.com

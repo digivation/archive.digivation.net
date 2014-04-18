@@ -42,6 +42,6 @@ I&#8217;ll be updating this post with further information as I play with the sof
 
 *Update:* I have some screenshots that I&#8217;ll be adding soon.
 
- [1]: http://digivation.net/2009/03/19/time-to-become-an-iphone-developer
- [2]: http://digivation.net/2008/08/03/sync-google-calendar-and-the-iphone-calendar-ota-for-free
+ [1]: http://archive.digivation.net/2009/03/19/time-to-become-an-iphone-developer
+ [2]: http://archive.digivation.net/2008/08/03/sync-google-calendar-and-the-iphone-calendar-ota-for-free
  [3]: http://developer.apple.com/iphone/

@@ -10,7 +10,7 @@ tags:
   - finances
   - politics
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/07/college.thumbnail.jpg" alt="College!" align="right" />I know this is kinda off topic, but I figured I&#8217;d post it since it&#8217;s rather relevant to me (and many of my fellow Mercerians). HR 2269, the College Cost Reduction Act of 2007, has just passed the House with a vote of 273-149. The bill promises to invest around $18 billion dollars into the college funding program, making education much more affordable to many Americans. Some changes are to include:
+<img src="http://archive.digivation.net/wp-content/uploads/2007/07/college.thumbnail.jpg" alt="College!" align="right" />I know this is kinda off topic, but I figured I&#8217;d post it since it&#8217;s rather relevant to me (and many of my fellow Mercerians). HR 2269, the College Cost Reduction Act of 2007, has just passed the House with a vote of 273-149. The bill promises to invest around $18 billion dollars into the college funding program, making education much more affordable to many Americans. Some changes are to include:
 
 *   Increase in maximum Pell Grand award
 *   Interest rates **cut from 6.8% to 3.4%**

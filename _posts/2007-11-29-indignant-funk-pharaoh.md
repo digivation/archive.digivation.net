@@ -10,7 +10,7 @@ tags:
   - jazz
   - Music
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/11/m_ed577441f30638d8058780432504a25c.gif" class="left" alt="IFP" />A little late on the news side, but [Indignant Funk Pharaoh][1] is playing tonight at [550 Blues][2], Macon, Ga. I&#8217;m sure you haven&#8217;t heard of the band, but that&#8217;s because they&#8217;re new and they&#8217;re local. IFP is a funk/jazz/fusion band and all members of the band are fantastic musicians. If you&#8217;re wondering what they sound like, you can find their myspace player come see them live at 550 tonight!
+<img src="http://archive.digivation.net/wp-content/uploads/2007/11/m_ed577441f30638d8058780432504a25c.gif" class="left" alt="IFP" />A little late on the news side, but [Indignant Funk Pharaoh][1] is playing tonight at [550 Blues][2], Macon, Ga. I&#8217;m sure you haven&#8217;t heard of the band, but that&#8217;s because they&#8217;re new and they&#8217;re local. IFP is a funk/jazz/fusion band and all members of the band are fantastic musicians. If you&#8217;re wondering what they sound like, you can find their myspace player come see them live at 550 tonight!
 
 **Update: The Post Show Review**
 

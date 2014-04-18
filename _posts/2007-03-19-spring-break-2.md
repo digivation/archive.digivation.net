@@ -13,4 +13,4 @@ It&#8217;s finally time to get back to work, and I have decided that life is goo
 
 Life here I come again&#8230;
 
-Oh, and I started this post over spring break and then forgot to finish it&#8230; thus the delay <img src="http://digivation.net/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+Oh, and I started this post over spring break and then forgot to finish it&#8230; thus the delay <img src="http://archive.digivation.net/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />

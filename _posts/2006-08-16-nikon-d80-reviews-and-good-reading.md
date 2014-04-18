@@ -9,7 +9,7 @@ categories:
   - General
 ---
 <p style="float: left">
-  <img src="http://digivation.net/wp-content/uploads/2006/08/d80.jpg" alt="Nikon D80" />
+  <img src="http://archive.digivation.net/wp-content/uploads/2006/08/d80.jpg" alt="Nikon D80" />
 </p>
 
 Some may remember a [recent posting][1] about the new Sony DSLR-A100 (aka Minolta) camera that I almost purchased. I managed to wait around and see what Nikon had waiting in the wings (after their [annoying little teaser][2]) and from the look of things it will be worth the wait. According to various sources, the D80 (while sharing the same/similar 10MP sensor as the Sony) has [much better high-ISO noise response][3], better features, faster [sync speed][4], and the backlog of nice Nikon lenses. And that little SD card caveat isn&#8217;t that big of a deal in light of current prices.
@@ -26,7 +26,7 @@ Other recommended reading material for those interested (from Ken Rockwell):
 *   [Adding Dynamic Range to Any Camera][12]
 *   [Film vs. Digital][13]
 
- [1]: http://digivation.net/2006/08/03/camera-lust/
+ [1]: http://archive.digivation.net/2006/08/03/camera-lust/
  [2]: http://www.dpreview.com/news/0607/06072001nikondslrteaser.asp
  [3]: http://www.photo-cafe.jp/scoop/archives/2006/08/d80_vs_100.html
  [4]: http://www.kenrockwell.com/tech/syncspeed.htm

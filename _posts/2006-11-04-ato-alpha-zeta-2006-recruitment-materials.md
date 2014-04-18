@@ -23,14 +23,14 @@ Here is a few thumbnails of some of the posters included in the package. SVG (Ve
 
 Note: All SVG source images were created with [InkScape][3] on a Windows system.
 
-<img src="http://digivation.net/wp-content/uploads/2006/11/the_best.png" id="image147" alt="The Best Poster" />  
-<img src="http://digivation.net/wp-content/uploads/2006/11/characteristics.png" id="image142" alt="Characteristics of an ATO Poster" />  
-<img src="http://digivation.net/wp-content/uploads/2006/11/poster3.png" id="image146" alt="Jack Daniels Spoof Poster/Shirt" />  
-<img src="http://digivation.net/wp-content/uploads/2006/11/poster2.png" id="image145" alt="Funny " />  
-<img src="http://digivation.net/wp-content/uploads/2006/11/path.png" id="image144" />  
-<img src="http://digivation.net/wp-content/uploads/2006/11/its_coming.png" id="image143" alt="It's Coming Teaser" />  
-<img src="http://digivation.net/wp-content/uploads/2006/11/badge_poster.png" id="image141" alt="Badge (Poster)" />  
-<img src="http://digivation.net/wp-content/uploads/2006/11/badge.png" id="image140" alt="Badge (Wallpaper)" />
+<img src="http://archive.digivation.net/wp-content/uploads/2006/11/the_best.png" id="image147" alt="The Best Poster" />  
+<img src="http://archive.digivation.net/wp-content/uploads/2006/11/characteristics.png" id="image142" alt="Characteristics of an ATO Poster" />  
+<img src="http://archive.digivation.net/wp-content/uploads/2006/11/poster3.png" id="image146" alt="Jack Daniels Spoof Poster/Shirt" />  
+<img src="http://archive.digivation.net/wp-content/uploads/2006/11/poster2.png" id="image145" alt="Funny " />  
+<img src="http://archive.digivation.net/wp-content/uploads/2006/11/path.png" id="image144" />  
+<img src="http://archive.digivation.net/wp-content/uploads/2006/11/its_coming.png" id="image143" alt="It's Coming Teaser" />  
+<img src="http://archive.digivation.net/wp-content/uploads/2006/11/badge_poster.png" id="image141" alt="Badge (Poster)" />  
+<img src="http://archive.digivation.net/wp-content/uploads/2006/11/badge.png" id="image140" alt="Badge (Wallpaper)" />
 
 You can download the complete set of files from [here][4].
 
@@ -40,7 +40,7 @@ You can download the complete set of files from [here][4].
   <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/" rel="license"><img src="http://creativecommons.org/images/public/somerights20.png" alt="Creative Commons License" style="clear: none; border-width: 0pt; float: left" /></a>This work is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 2.5 License</a>.<!--/Creative Commons License-->
 </p>
 
- [1]: http://digivation.net/2006/08/07/building-an-effective-recruitment-strategy/
+ [1]: http://archive.digivation.net/2006/08/07/building-an-effective-recruitment-strategy/
  [2]: http://www.largeformatposters.com/
  [3]: http://www.inkscape.org/
  [4]: http://www.digivation.net/wp-content/uploads/2006/11/ato_rush_complete.zip

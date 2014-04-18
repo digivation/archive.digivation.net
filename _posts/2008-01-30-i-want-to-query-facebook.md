@@ -7,7 +7,7 @@ categories:
   - General
   - Technology
 ---
-<img src="http://digivation.net/wp-content/uploads/2008/01/facebook_developers.gif" class="right" alt="Facebook Developers" />But I can&#8217;t. Let me explain.
+<img src="http://archive.digivation.net/wp-content/uploads/2008/01/facebook_developers.gif" class="right" alt="Facebook Developers" />But I can&#8217;t. Let me explain.
 
 Facebook offers a developer API that allows programmers to use the data stored by Facebook. One of the neat features is called &#8220;Facebook Query Language,&#8221; and allows you to execute queries on the data provided by Facebook, as if it were a giant database (oh, wait, it is). Earlier this afternoon I was wishing I could gather a list of all my friends and their website URLs (if any). Since many of my friends are on Facebook, I figured that Facebook would be a great place to start. But who wants to click through 600+ Facebook profiles copying down website addresses??? Not I &#8230; but that does sound like a great task for your average computer program, right?
 

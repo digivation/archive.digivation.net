@@ -13,7 +13,7 @@ tags:
 ---
 "La Bamba" was an instant classic anytime [The Newtons][1] were in concert. Thus, I proudly present you with a live recording of&nbsp; "[La Bamba][2]," as performed at one of band&#8217;s last concerts. The recording quality isn&#8217;t the best and it&#8217;s sometimes a tad difficult to hear, but for this historical audio clip, I think it&#8217;s worth the trouble.
 
-Love ya [Dave][3] <img src="http://digivation.net/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
+Love ya [Dave][3] <img src="http://archive.digivation.net/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> 
 
 
 

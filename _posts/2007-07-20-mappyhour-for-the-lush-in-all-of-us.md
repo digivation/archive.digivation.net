@@ -10,7 +10,7 @@ tags:
   - friends
   - google
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/07/mappyhour.png" alt="MappyHourg" align="right" />Wanna find somewhere to snag a drink? Give [MappyHour][1] a spin! This new Google maps &#8220;mashup&#8221; lets you locate bars (and clubs and restaurants with bars) near a given location. The site also allows users to add new locations, revise locations, and rate their favorite (or least favorite) bars.
+<img src="http://archive.digivation.net/wp-content/uploads/2007/07/mappyhour.png" alt="MappyHourg" align="right" />Wanna find somewhere to snag a drink? Give [MappyHour][1] a spin! This new Google maps &#8220;mashup&#8221; lets you locate bars (and clubs and restaurants with bars) near a given location. The site also allows users to add new locations, revise locations, and rate their favorite (or least favorite) bars.
 
 New bars are recommended based a comparison of your ratings to other peoples&#8217;, and you earn points for adding/updating information. Of course no one seems to know what these points do&#8230;
 

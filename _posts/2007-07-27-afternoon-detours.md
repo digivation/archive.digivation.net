@@ -11,7 +11,7 @@ tags:
   - travel
 ---
 <div>
-  <img src="http://digivation.net/wp-content/uploads/2007/07/afternoon_detour1.jpg" alt="Afternoon Detours" />
+  <img src="http://archive.digivation.net/wp-content/uploads/2007/07/afternoon_detour1.jpg" alt="Afternoon Detours" />
 </div>
 
 It&#8217;s Friday afternoon and in a few short hours the masses will be turning off their computers, donning their driving gloves, and heading away from work. Now while the weather in my part of the world might is not currently the best, for those of you blessed with sunny afternoons and a little free time, let me make a suggestion:
@@ -22,6 +22,6 @@ We humans are creatures of habit, and for good reason &#8211; it allows us to em
 
 So let me encourage you to shake things up. Take a detour. Try something new. You never know what you might find.
 
- [1]: http://digivation.net/v/vehicles/drive77/
- [2]: http://digivation.net/v/vehicles/drive77/IMG_2725.jpg.html
+ [1]: http://archive.digivation.net/v/vehicles/drive77/
+ [2]: http://archive.digivation.net/v/vehicles/drive77/IMG_2725.jpg.html
  [3]: http://maps.google.com

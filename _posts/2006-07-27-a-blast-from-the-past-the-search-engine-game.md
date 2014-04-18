@@ -17,7 +17,7 @@ I wondered if there might happen to be any web archives of my old site (you know
 > Name: Matthew Smith  
 > E-mail address: jimje@worldnet.att.net  
 > Homepage URL: http://home.att.net/~jimje/  
-> Comments: Great programs, cool site, VERY fast (\_-ZOOM\_-) <img src="http://digivation.net/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" /> Like Hi-color, cool apps very much. It is very good to see HI quality apps for free. I was wondering if there is any way to mack paquet builder add icons to start menu ? Also, what about the site ratings that don&#8217;t belong here ?(makes message that the rating for this site belongs to somewhere else) Great job ! Matthew Smith [removed link and missing image]  
+> Comments: Great programs, cool site, VERY fast (\_-ZOOM\_-) <img src="http://archive.digivation.net/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" /> Like Hi-color, cool apps very much. It is very good to see HI quality apps for free. I was wondering if there is any way to mack paquet builder add icons to start menu ? Also, what about the site ratings that don&#8217;t belong here ?(makes message that the rating for this site belongs to somewhere else) Great job ! Matthew Smith [removed link and missing image]  
 > Monday, February 9th 1998 &#8211; 11:59:00 AM
 
 Amazing &#8211; I have no clue what I&#8217;m talking about (it was the guest book for some [software programmer][3]), I sound retarded, and, wait &#8211; was that posted at lunch time on a SCHOOL DAY? Yes, it was &#8211; that&#8217;s the joy of home schooling!

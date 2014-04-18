@@ -14,7 +14,7 @@ tags:
   - load
   - programming
 ---
-<img src="http://digivation.net/wp-content/uploads/2008/01/code.png" class="left" alt="Code" />I may not be able to explain how cool this is, but I&#8217;m going to try.
+<img src="http://archive.digivation.net/wp-content/uploads/2008/01/code.png" class="left" alt="Code" />I may not be able to explain how cool this is, but I&#8217;m going to try.
 
 Right now I&#8217;m working on a replacement for the [nasty VBScript][1] I posted a while back that updates the software installed on the computers at work. Sure, the script did it&#8217;s job but it wasn&#8217;t pretty to look at and updating it or adding new software is a pain in the arse.
 
@@ -38,7 +38,7 @@ var newObject = eval(callString);
 
 And it works like a charm! Now I can run a loop over my array of class names, create new objects, and perform all my other nifty little tasks. It looks simple, but I had to contemplate this for a second before the light bulb flashed on&#8230; I&#8217;m sure someone out there has already done this, been just as excited as me, and posted about it on their own blog. However, this is the solution I came up with off the top of my head without the assistance of any Google searches, so I&#8217;m going to be happy and post about it here before I ever check Google!
 
- [1]: http://digivation.net/2007/11/01/windows-scripting-and-vbscript
+ [1]: http://archive.digivation.net/2007/11/01/windows-scripting-and-vbscript
  [2]: http://en.wikipedia.org/wiki/Object-oriented_programming
  [3]: http://www.w3schools.com/jsref/jsref_eval.asp
  [4]: http://developer.apple.com/documentation/developertools/gcc-4.0.1/cpp/Include-Syntax.html

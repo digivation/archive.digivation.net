@@ -8,7 +8,7 @@ categories:
 tags:
   - Advertising
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/07/your_image_smaller.png" alt="Me? Simpsons?" align="right" />One for the random bucket: in a promotion for the new Simpson&#8217;s movie, a new website, [Simsonize Me][1], has appeared.
+<img src="http://archive.digivation.net/wp-content/uploads/2007/07/your_image_smaller.png" alt="Me? Simpsons?" align="right" />One for the random bucket: in a promotion for the new Simpson&#8217;s movie, a new website, [Simsonize Me][1], has appeared.
 
 Upload your photo and become a Simpson&#8217;s character!
 

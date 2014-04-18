@@ -36,7 +36,7 @@ Play it below, or download the tracks [here][4].
   </div>
 </div>
 
- [1]: http://digivation.net/wp-content/uploads/2007/07/newtons_live.jpg
- [2]: http://digivation.net/2007/06/29/dave-does-la-bamba/
+ [1]: http://archive.digivation.net/wp-content/uploads/2007/07/newtons_live.jpg
+ [2]: http://archive.digivation.net/2007/06/29/dave-does-la-bamba/
  [3]: http://davidcomeaux.com/
- [4]: http://digivation.net/stuffs/newtons/the_newtons_live/
+ [4]: http://archive.digivation.net/stuffs/newtons/the_newtons_live/

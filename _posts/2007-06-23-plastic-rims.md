@@ -15,4 +15,4 @@ I totally want a pair of these plastic wheels for my BMW! Not only do they look 
 
  [1]: http://www.fraunhofer.de/fhg/EN/press/pi/2007/06/ResearchNews62007Thema6.jsp
  [2]: http://www.engadget.com/2007/06/23/featherweight-plastic-wheels-roll-closer-to-production/
- [3]: http://digivation.net/wp-content/uploads/2007/06/plasticwheel.jpg
+ [3]: http://archive.digivation.net/wp-content/uploads/2007/06/plasticwheel.jpg

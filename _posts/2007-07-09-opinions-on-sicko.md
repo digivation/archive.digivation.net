@@ -13,7 +13,7 @@ tags:
   - politics
   - review
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/07/200px-sickoposter.jpg" alt="Sicko Poster" align="left" />As [promised][1], I spent a few of my precious weekend hours watching [Michael Moore&#8217;s][2] new <strike>documentary</strike> [expose][3] ([Wikipedia][4]) on America&#8217;s health care system.
+<img src="http://archive.digivation.net/wp-content/uploads/2007/07/200px-sickoposter.jpg" alt="Sicko Poster" align="left" />As [promised][1], I spent a few of my precious weekend hours watching [Michael Moore&#8217;s][2] new <strike>documentary</strike> [expose][3] ([Wikipedia][4]) on America&#8217;s health care system.
 
 I must preface my thoughts by stating that I have not seen any of Mr. Moore&#8217;s prior films, nor am I an expert on the complex issues currently surrounding the American health care system. I also do not claim any political pre-disposition to Mr. Moore, his films, or his viewpoints.
 
@@ -33,7 +33,7 @@ After you watch the film, I&#8217;d love to hear your opinions &#8211; feel free
 
 PS. I don&#8217;t condone illegal activities. No not at all, not even a little bit. Okay? Of course, they&#8217;ve never actually *proven* that file sharing is illegal in a court of law, so&#8230;
 
- [1]: http://digivation.net/2007/07/06/wanna-see-sicko-not-in-macon/
+ [1]: http://archive.digivation.net/2007/07/06/wanna-see-sicko-not-in-macon/
  [2]: http://www.michaelmoore.com/
  [3]: http://www.imdb.com/title/tt0386032/
  [4]: http://en.wikipedia.org/wiki/Sicko

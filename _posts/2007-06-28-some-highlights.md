@@ -20,13 +20,13 @@ Since we are working on preparing a few site upgrades, I went through every post
 
 It&#8217;s always fun (for me, at least) to go back and read through old posts from time to time. Occasionally I&#8217;ll stumble across a forgotten literary gem, other times I&#8217;ll just laugh at how bad my writing was/is. And I&#8217;ll always come away with new ideas.
 
- [1]: http://digivation.net/2006/08/11/why-telephones-use-negative-forty-eight-volts-dc/
- [2]: http://digivation.net/2006/08/07/building-an-effective-recruitment-strategy/
- [3]: http://digivation.net/2006/11/04/ato-alpha-zeta-2006-recruitment-materials/
- [4]: http://digivation.net/2007/04/24/apathy-and-procrastination/
- [5]: http://digivation.net/2006/03/15/thats-why-you-dont-fuck-around/
- [6]: http://digivation.net/2006/05/23/hey-ma-i-failed-engrish-for-the-twelfth-time/
- [7]: http://digivation.net/2006/04/20/christian-nudists-derriere-advertising/
- [8]: http://digivation.net/index.php?tag=humor
- [9]: http://digivation.net/2006/06/15/writers-block/
- [10]: http://digivation.net/2006/07/06/listening-to-coffee-while-drinking-jazz/
+ [1]: http://archive.digivation.net/2006/08/11/why-telephones-use-negative-forty-eight-volts-dc/
+ [2]: http://archive.digivation.net/2006/08/07/building-an-effective-recruitment-strategy/
+ [3]: http://archive.digivation.net/2006/11/04/ato-alpha-zeta-2006-recruitment-materials/
+ [4]: http://archive.digivation.net/2007/04/24/apathy-and-procrastination/
+ [5]: http://archive.digivation.net/2006/03/15/thats-why-you-dont-fuck-around/
+ [6]: http://archive.digivation.net/2006/05/23/hey-ma-i-failed-engrish-for-the-twelfth-time/
+ [7]: http://archive.digivation.net/2006/04/20/christian-nudists-derriere-advertising/
+ [8]: http://archive.digivation.net/index.php?tag=humor
+ [9]: http://archive.digivation.net/2006/06/15/writers-block/
+ [10]: http://archive.digivation.net/2006/07/06/listening-to-coffee-while-drinking-jazz/

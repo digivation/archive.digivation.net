@@ -8,7 +8,7 @@ categories:
   - General
 ---
 <p align="center">
-  <img src="http://digivation.net/wp-content/uploads/2007/07/crackle-sm.jpg" alt="crackle" />
+  <img src="http://archive.digivation.net/wp-content/uploads/2007/07/crackle-sm.jpg" alt="crackle" />
 </p>
 
 Last year, [Sony][1] bought a little-known [YouTube][2] competitor (although that might be too much credit) named Grouper. It allowed user generated videos to be shared with <strike>anyone visiting the site</strike> those who might accidentally find the site in a failed attempt to find YouTube. Sony has decided to revamp the site under the name [Crackle][3]. This &#8220;Crackle&#8221; will serve as a proving ground for any budding filmmakers looking to make it big. Supposedly, the creators top-rated videos will be given funding to continue their endeavors, anywhere from $2,000 to $20,000. Not only will the best be funded, but they will be given a shot to pitch film ideas at [Columbia Pictures and Sony Pictures Television][4]. Animators are offered even greater incentive as one animation each year will be developed into a full-length feature offering the opportunity for an [Academy Award][5]. So, <strike>dust of that old camcorder</strike> pull out your video enabled wireless phone and start making <strike>history</strike> money.

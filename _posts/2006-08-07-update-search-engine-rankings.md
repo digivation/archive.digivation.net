@@ -18,5 +18,5 @@ On another, possibly related note, I have suddenly seen an increase in the amoun
 
 Whatever the reasons and results, the ensuing trends and the never ending quest for a better search ranking is quite an interesting study, and one that I will be following. As I notice other surprising tidbits, I&#8217;ll be sure and post them up.
 
- [1]: http://digivation.net/2006/07/27/search-engine-rankings/
+ [1]: http://archive.digivation.net/2006/07/27/search-engine-rankings/
  [2]: http://www.google.com/search?hl=en&q=matthew+smith

@@ -11,7 +11,7 @@ tags:
   - iphone
   - Technology
 ---
-<img src="http://digivation.net/wp-content/uploads/2007/06/iphone.jpg" alt="iPhone" align="right" />OK, well it&#8217;s finally here &#8211; the long awaited [iDay][1], the day when Steve lets [all the little-bitty iPhones loos][2]e on the [<strike>world</strike>][3] US of A (everyone except [Vermont][4] &#8211; sucks to be you). People are [going crazy][5]. Doing [silly things][6]. [Painting pictures][7], [baking cakes][8]&#8230; Steve even [gave away $12 million][9] (yes, million) worth of iPhone goodness to his dedicated Apple employees (talk about benefits). What ever has the word come to?
+<img src="http://archive.digivation.net/wp-content/uploads/2007/06/iphone.jpg" alt="iPhone" align="right" />OK, well it&#8217;s finally here &#8211; the long awaited [iDay][1], the day when Steve lets [all the little-bitty iPhones loos][2]e on the [<strike>world</strike>][3] US of A (everyone except [Vermont][4] &#8211; sucks to be you). People are [going crazy][5]. Doing [silly things][6]. [Painting pictures][7], [baking cakes][8]&#8230; Steve even [gave away $12 million][9] (yes, million) worth of iPhone goodness to his dedicated Apple employees (talk about benefits). What ever has the word come to?
 
 At least one person still has their head on straight. Ed Felten (author of the excellent blog [Freedom to Tinker][10] and a Princeton professor) has written [a level-headed and thoughtful article][11] on the whole iPhone ordeal and why it will change the world, even if the iPhone isn&#8217;t that revolutionary by itself.
 

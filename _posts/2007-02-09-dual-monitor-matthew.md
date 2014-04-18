@@ -11,5 +11,5 @@ A while back I managed to get a hold of a few non-functional LCD monitors. Yeste
 ![Dual Monitors][1]  
 ![Out of Body Monitor][2]
 
- [1]: http://digivation.net/wp-content/uploads/2007/02/dual-setup.jpg
- [2]: http://digivation.net/wp-content/uploads/2007/02/outofbody.jpg
+ [1]: http://archive.digivation.net/wp-content/uploads/2007/02/dual-setup.jpg
+ [2]: http://archive.digivation.net/wp-content/uploads/2007/02/outofbody.jpg
