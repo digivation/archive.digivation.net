@@ -1,3 +1,6 @@
-url: http://archive.digivation.net
-name: digivation.net blog archive 2006-2011
-description: The blog of Matthew A. Smith and Michael  Chappell, on topics from A to Z
+name: digivation.net - The Archives 2006-2011 
+markdown: rdiscount
+pygments: true
+urls:
+    - text: digivation.net
+      url: http://digivation.net
