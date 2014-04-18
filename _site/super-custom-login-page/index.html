@@ -1,0 +1,139 @@
+<p>This WordPress plugin is based of of BM Custom Login and allows you to change the appearance of the login page (as did the original plugin), in addition to customizing the link and the link title. This is currently a proof of concept that was hacked together in about an hour. It works, but there is no protection against malicious use built into the plugin (other than what is provided by WordPress). The main concern is that the plugin will accept any string for the URL or URL title without sanitizing it first. This could cause serious issues if not used properly! Use at your own risk! I will be updating this shortly with further features and improving the security, so for now there is no download available. If you want to see it in action, you can see it at the development site. If you have some suggestions on how to improve it (at the moment, I’m very interested in the security aspect), please leave a comment!</p>
+<div class='highlight'><pre><code class='php'><span class='x'>/*</span>
+<span class='x'>Plugin Name: Super Custom Login Page</span>
+<span class='x'>Plugin URI: http://digivation.net/wordpress/super-custom-login-page/</span>
+<span class='x'>Description: Based on BM Custom Login, you can display custom images on the wordpress login screen and modify the header link. Customize away!</span>
+<span class='x'>Author: Matthew Smith</span>
+<span class='x'>Version: 0.01b</span>
+<span class='x'>Author URI: http://digivation.net/</span>
+<span class='x'>*/ </span>
+<span class='x'>/*</span>
+<span class='x'>	Functions</span>
+<span class='x'>*/</span>
+<span class='x'>// the original BM function, renamed</span>
+<span class='x'>function sc_login_stylesheet() {</span>
+<span class='x'>	echo &amp;#8216;</span>
+<span class='x'>&amp;#8216;;</span>
+<span class='x'>}</span>
+<span class='x'>// all new stuff from here down  </span>
+<span class='x'>// change login link</span>
+<span class='x'>function sc_login_link($args=null) {</span>
+<span class='x'>	$sc_customlink = get_option(&amp;#8216;sc_login_url&amp;#8217;);	// get url</span>
+<span class='x'>	return $sc_customlink;	// return the url</span>
+<span class='x'>}</span>
+<span class='x'>// change login link title</span>
+<span class='x'>function sc_login_linktitle($args=null) {</span>
+<span class='x'>	$sc_custom_linktitle = get_option(&amp;#8216;sc_login_urltitle&amp;#8217;);	// get the title</span>
+<span class='x'>	return $sc_custom_linktitle; // return linktitle</span>
+<span class='x'>}</span>
+<span class='x'>// uninstall function</span>
+<span class='x'>function sc_login_remove() {</span>
+<span class='x'>	// remove title &amp;#038; url options</span>
+<span class='x'>	delete_option(&amp;#8216;sc_login_url&amp;#8217;);</span>
+<span class='x'>	delete_option(&amp;#8216;sc_login_urltitle&amp;#8217;);</span>
+<span class='x'>}</span>
+<span class='x'>// setup function</span>
+<span class='x'>function sc_login_setup() {</span>
+<span class='x'>	// add options (set to default WP values)</span>
+<span class='x'>	add_option(&amp;#8216;sc_login_url&amp;#8217;,&#39;http://wordpress.org/&amp;#8217;,&#39;The custom URL&amp;#8217;);</span>
+<span class='x'>	add_option(&amp;#8216;sc_login_urltitle&amp;#8217;,&#39;Powered by WordPress&amp;#8217;,&#39;The custom URL title&amp;#8217;);</span>
+<span class='x'>}</span>
+<span class='x'>/*</span>
+<span class='x'>	Admin Area Stuff</span>
+<span class='x'>*/</span>
+<span class='x'>// the admin menu</span>
+<span class='x'>function sc_admin_menu() {</span>
+<span class='x'>	// lets print some HTML!</span>
+<span class='x'>	if( current_user_can(&amp;#8216;manage_options&amp;#8217;) ) {</span>
+<span class='x'>	?&gt;</span>
+
+<span class='x'>Custom Login Page Options</span>
+<span class='x'> </span>
+<span class='x'>			if( $_REQUEST[&#39;submit&#39;] ) {</span>
+<span class='x'>				sc_update_options(); // update options and...</span>
+<span class='x'>			}</span>
+<span class='x'>			sc_print_admincontent(); // print other stuff</span>
+<span class='x'>			sc_print_form(); // print our form</span>
+<span class='x'>	?&gt;	</span>
+<span class='x'> </span>
+<span class='x'>		} else {</span>
+<span class='x'>			wp_die(__(&#39;You do not have permission to access this page.&#39;));</span>
+<span class='x'>		}</span>
+<span class='x'>}</span>
+<span class='x'>// print messages</span>
+<span class='x'>function sc_print_admincontent() {</span>
+<span class='x'>}</span>
+<span class='x'>function sc_print_form() {</span>
+<span class='x'>	// get current options</span>
+<span class='x'>	$sc_current_url = get_option(&#39;sc_login_url&#39;);</span>
+<span class='x'>	$sc_current_title = get_option(&#39;sc_login_urltitle&#39;);</span>
+<span class='x'>	?&gt;</span>
+
+
+
+<span class='x'>Custom URL:</span>
+<span class='x'>&amp;#8221; size=&amp;#8221;40&amp;#8243; /&gt;</span>
+<span class='x'>	Enter the URL you would like the logo to point to (defaults to http://wordpress.org).</span>
+<span class='x'>	</span>
+
+
+<span class='x'>Custom URL Title:</span>
+<span class='x'>&amp;#8221; size=&amp;#8221;40&amp;#8243; /&gt;</span>
+<span class='x'>	</span>
+<span class='x'>	Enter a title for the URL (defaults to &amp;#8220;Powered by WordPress&amp;#8221;).</span>
+
+
+
+
+
+<span class='x'>}</span>
+<span class='x'>function sc_update_options() {</span>
+<span class='x'>	$done = false;</span>
+<span class='x'>	// quick &amp;#038; dirty security check</span>
+<span class='x'>	if( current_user_can(&#39;manage_options&#39;) ) {</span>
+<span class='x'>		// validate input TODO</span>
+<span class='x'>		// do the updating!</span>
+<span class='x'>		if( $_REQUEST[&#39;custom_url&#39;] ) {</span>
+<span class='x'>			update_option( &#39;sc_login_url&#39;,url_shorten( $_REQUEST[&#39;custom_url&#39;] ) );</span>
+<span class='x'>			$done = true;</span>
+<span class='x'>		}</span>
+<span class='x'>		if( $_REQUEST[&#39;custom_title&#39;] ) {</span>
+<span class='x'>			update_option( &#39;sc_login_urltitle&#39;,$_REQUEST[&#39;custom_title&#39;] );</span>
+<span class='x'>			$done = true;</span>
+<span class='x'>		}</span>
+<span class='x'>	} else {</span>
+<span class='x'>		wp_die(__(&#39;You do not have permission to access this page.&#39;));</span>
+<span class='x'>	} // can current user manage options?</span>
+<span class='x'>	if( $done ) { ?&gt;</span>
+
+<span class='x'>Options saved.</span>
+
+
+<span class='x'>	} else {?&gt;</span>
+
+<span class='x'>Error updating options!</span>
+
+
+<span class='x'>	}</span>
+<span class='x'>}</span>
+<span class='x'>// create admin menu, under &quot;Presentation&quot;</span>
+<span class='x'>function sc_admin_menu_setup() {</span>
+<span class='x'>	add_theme_page(</span>
+<span class='x'>						&#39;Login Page Options&#39;,	// page title, doesn&#39;t do anything</span>
+<span class='x'>						&#39;Customize Login Page&#39;,	// menu title</span>
+<span class='x'>						&#39;manage_options&#39;,	// permissions</span>
+<span class='x'>						__FILE__,	// file</span>
+<span class='x'>						&#39;sc_admin_menu&#39;	// the function</span>
+<span class='x'>					);</span>
+<span class='x'>}</span>
+<span class='x'>/*</span>
+<span class='x'>	Hooks</span>
+<span class='x'>*/</span>
+<span class='x'>add_action(&#39;login_head&#39;,&#39;sc_login_stylesheet&#39;);</span>
+<span class='x'>add_action(&#39;admin_menu&#39;,&#39;sc_admin_menu_setup&#39;);</span>
+<span class='x'>add_filter(&#39;login_headerurl&#39;,&#39;sc_login_link&#39;);</span>
+<span class='x'>add_filter(&#39;login_headertitle&#39;,&#39;sc_login_linktitle&#39;);</span>
+<span class='x'>register_activation_hook(__FILE__,&#39;sc_login_setup&#39;);</span>
+<span class='x'>register_deactivation_hook(__FILE__,&#39;sc_login_remove&#39;);</span>
+<span class='x'>?&gt;</span>
+</code></pre></div>

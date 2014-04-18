@@ -1,0 +1,5 @@
+<p>This vital piece of information was ignored, and resulted in an unaccessible back-end for around a week (mainly due to my own laziness). However, all is well now.</p>
+
+<p>If you happen to be getting a blank page when loading “upgrade.php” (PHP out of memory errors in the log), or seeing random blank pages after trying to save posts, moderate comments, etc, you should go through and disable your plugins to find out which one is responsible. In my case, it was the Google Sitemaps plugin (not by Google). If you have upgraded and cannot access the admin interface, use phpMySql or something similar to remove the content of the “activate_plugins” key in the wp_options table. Then upgrade and re-enable your plugins!</p>
+
+<p>Update: After some tinkering around and deleting / re-uploading of files, the Sitemaps plugin has started working properly again. This is good; sitemaps help your search engine rankings.</p>

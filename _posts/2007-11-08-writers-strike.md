@@ -1,0 +1,13 @@
+---
+title: 'Writer&#8217;s Strike'
+author: Michael Chappell
+layout: post
+permalink: /2007/11/08/writers-strike
+categories:
+  - General
+tags:
+  - "write's strike"
+---
+<img class="left" src="http://digivation.net/wp-content/uploads/2007/11/_44239239_stiller_afp.jpg" alt="_44239239_stiller_afp.jpg" />As I am sure most of you are aware by now, the Writer&#8217;s Guild of America has gone on strike. If you are wondering why, let me break it down for you. First of all, TV networks have begun distributing shows over the Internet. The writers, who are generally compensated whenever any of their work is distributed, are receiving no money for this new method of viewing. The networks, however, claim that since Internet distribution is so new, that they are not immediately earning a profit and in fact are unsure of any future earnings. The writer&#8217;s have accepted this explanation, but are not looking to be paid immediately; they merely would like to work out a deal for when they start making money. The networks, in turn, don&#8217;t want to make any deals until they start seeing a profit from Internet distribution. This, howevcr, is not the most important aspect of the strike. The writer&#8217;s are most concerned with the compensation they receive for DVD sales. Currently, they receive 4 cents per DVD, which they would like to see doubled. Now, I tend to favor the writers, but what do you think?
+
+I&#8217;m sure you would rather know about how this is going to affect any of the shows you watch. If you enjoy the political banter of Jon Stewart and Stephen Colbert (or any late night show for that matter) you have already noticed that they have started showing reruns. Most big time dramas and sitcoms have stopped filming but have enough shows to continue for about a month. Many of the actors/writers have joined the picket lines including Steve Carrel from &#8220;The Office&#8221; (I know, other things too, but the only thing currently filming) well as the actors themselves including Sally Field from &#8220;Brother&#8217;s and Sisters&#8221; (again, I know, others, but the only thing filming) and the ENTIRE CAST of &#8220;Grey&#8217;s Anatomy&#8221;. There some other consequences, like for &#8220;24&#8243; who has decided to postpone showing any new episodes so that they can ensure that the 7th season airs uninterrupted. I really hope they can come to some resolution because I detest reality TV and need some good TV.

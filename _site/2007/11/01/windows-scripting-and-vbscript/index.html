@@ -1,0 +1,55 @@
+<p>As you may (or may not) know, I do IT work at a small local school. When I am not busy solving teachers’ problems, I am tasked with performing various maintenance tasks on these computers. Almost every system that I deal with runs Windows 2000 (the rest run XP or 2003 Server) and these are running on a wide range of hardware (mostly ancient history by today’s standards). Most recently, I’ve been updating a bevy of software. I first installed updates by hand – a long, boring, tedious, and annoying process. Since necessity (or boredom) is the mother of invention, I quickly decided it would be easier to throw all of the commands into a <a href="http://en.wikipedia.org/wiki/Batch_file">batch file</a> instead of clicking through each install.<!--more--></p>
+
+<p>Then I remembered that batch files have been around since the dawn of time and there are better ways to do things (such as <a href="http://www.linuxcommand.org/writing_shell_scripts.php">Linux</a>). Unfortunately I don’t have the power of <a href="http://en.wikipedia.org/wiki/Bash">bash</a> at hand… so I investigated the <a href="http://en.wikipedia.org/wiki/Windows_Script_Host">Microsoft way</a> of doing things – most glorious (or not) VBScript (or JScript). Since I found more VBScripts than JScripts, I decided to tinker around with VBS for a while and see what could be done.</p>
+
+<p>I hate VBS. I keep wanting to use Java or C syntax. Arg. So annoying. But it’s better than the command line. With a little hacking (and copying and pasting), I have managed to create a simple “stupid” script that runs the install files. As I develop it more, I’ll post up what I’ve got. For now, we have this:</p>
+
+<p>[vb]<br />‘ create the shell object<br />Set objShell = CreateObject(“WScript.Shell”)</p>
+
+<p>‘ do updates</p>
+
+<p>msgbox “Preparing to install Updates.. will take a few moments”</p>
+
+<p>‘ Flash Plkayer<br />objShell.Run “.\Adobe\install_flash_player.exe /s”,,True<br />objShell.Run “.\Adobe\flashplayer9_install_ie.exe /s”,,True</p>
+
+<p>‘ Shockwave<br />objShell.Run “.\Shockwave\Shockwave_Installer_Slim.exe /s”,,True</p>
+
+<p>‘ Quicktime<br />if GetOS = “W2K” then<br />objShell.Run “.\Quicktime\QuickTimeWin2000.exe”,,True<br />else<br />objShell.Run “.\Quicktime\QuickTimeInstaller.exe /passive”,,True<br />end if</p>
+
+<p>‘ Windows Media Player<br />if GetOS = “W2K” then<br />objShell.Run “.\WMP\MP9Setup.exe /Q”,,True<br />else<br />objShell.Run “.\WMP\wmp11.exe”,,True<br />end if</p>
+
+<p>‘ JAVA<br />objShell.Run “.\Java\jre-6u3-windows-i586-p-s.exe /s”,,True</p>
+
+<p>‘ Adobe Reader<br />objShell.Run “.\Adobe\AdbeRdr810_en_US.exe /sAll”,,True</p>
+
+<p>‘ Time Zone Update</p>
+
+<p>objShell.Run “.\TZUpdate\DaylightSavingFix.exe /qinstall”,,True</p>
+
+<p>msgbox “Installation Complete”</p>
+
+<p>‘ Get OS Function</p>
+
+<p>Function GetOS()<br />‘Will work with most versions of WSH.<br />‘CMD window will not display.<br />Const OpenAsASCII = 0<br />Const FailIfNotExist = 0<br />Const ForReading = 1</p>
+
+<p>Dim WshShell : Set WshShell = CreateObject(“WScript.Shell”)<br />Dim FSO : Set FSO = CreateObject(“Scripting.FileSystemObject”)<br />Dim sTemp, sTempFile, fFile, sResults<br />sTemp = WshShell.ExpandEnvironmentStrings(“%TEMP%”)<br />sTempFile = sTemp &amp; “\runresult.tmp”</p>
+
+<p>WshShell.Run “%comspec% /c ver &gt;” &amp; sTempFile, 0, True</p>
+
+<p>Set fFile = FSO.OpenTextFile(sTempFile, ForReading, FailIfNotExist, OpenAsASCII)</p>
+
+<p>sResults = fFile.ReadAll<br />fFile.Close<br />FSO.DeleteFile(sTempFile)</p>
+
+<p>Select Case True<br />‘Add more info to the 98 and 95 to get the specific version. i.e. 98SE 95 a,b,or c<br />Case InStr(sResults, “Windows 95″) &gt; 1 : GetOS = “W95″<br />Case InStr(sResults, “Windows 98″) &gt; 1 : GetOS = “W98″<br />Case InStr(sResults, “Windows Millennium”) &gt; 1 : GetOS = “WME”<br />Case InStr(sResults, “Windows NT”) &gt; 1 : GetOS = “NT4″<br />Case InStr(sResults, “Windows 2000″) &gt; 1 : GetOS = “W2K”<br />Case InStr(sResults, “Windows XP”) &gt; 1 : GetOS = “WXP”<br />Case Else : GetOS = “Unknown”<br />End Select<br />End Function<br />[/vb]</p>
+
+<p>The GetOS function came from <a href="http://www.visualbasicscript.com/m_25374/tm.htm">here</a>. I am still developing this and I have written a function to detect the service pack level:</p>
+
+<p>[vb]<br />Function GetSP()<br />‘For NT Systems<br />Dim SP_VER<br />Set Shell = WScript.CreateObject(“WScript.Shell”)</p>
+
+<p>Select Case Shell.RegRead (“HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Windows\CSDVersion”)<br />Case 256<br />GetSP = “SP1″<br />Case 512<br />GetSP = “SP2″<br />Case 768<br />GetSP = “SP3″<br />Case 1024<br />GetSP = “SP4″<br />Case 1280<br />GetSP = “SP5″<br />Case 1536<br />GetSP = “SP6″<br />End Select</p>
+
+<p>Set Shell = Nothing</p>
+
+<p>End Function<br />[/vb]</p>
+
+<p>That function uses information found <a href="http://www.windowsnetworking.com/kbase/WindowsTips/WindowsNT/RegistryTips/Miscellaneous/Determineservicepacklevel.html">here</a>. I will probably refine this script to detect currently installed software (and version, if possible), then only run the updates that are needed. I also need to find a reliable way to run Windows Updates… so stay tuned!</p>
