@@ -135,7 +135,7 @@ Once you decide on your layout, implement it using the [wiki syntax][16].
 
 ### Conclusion
 
- [1]: http://digivation.net/senior_design/
+ [1]: http://archive.digivation.net/senior_design/
  [2]: http://www.apachefriends.org/en/xampp.html
  [3]: http://www.sitelutions.com/
  [4]: http://www.webhostingbuzz.com

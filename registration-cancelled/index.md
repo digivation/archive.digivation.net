@@ -1,5 +1,4 @@
 ---
-title: Registration Cancelled
 author: Matthew Smith
 layout: page
 ---

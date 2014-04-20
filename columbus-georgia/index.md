@@ -1,5 +1,4 @@
 ---
-title: Columbus, Georgia
 author: Matthew Smith
 layout: page
 tags:

@@ -1,6 +1,8 @@
 name: digivation.net - The Archives 2006-2011 
 markdown: rdiscount
 pygments: true
+exclude: [.git, .gitignore]
+paginate: 20
 urls:
     - text: digivation.net
       url: http://digivation.net

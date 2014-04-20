@@ -2,8 +2,6 @@
 title: Digivation K2 Style
 author: Matthew Smith
 layout: page
-comments:
-  - comments
 ---
 The Digivation style for K2 is a clean, simple style (see screen shot below). Featuring a centered content area, one right sidebar, and a rotating image area for the header (using [ALA&#8217;s Randomizer][1]). The content area is surrounded by unobtrusive greyness and when taken as a whole package, it presents a pleasing effect.
 
@@ -12,7 +10,7 @@ This was one of my first attempts at designing a style, and it served this websi
 Enjoy!
 
 <div class="orangebox">
-  <a href="http://digivation.net/downloads/themes/digivation_for_k2-0.50.zip">Download version 0.5</a>
+  <a href="http://archive.digivation.net/downloads/themes/digivation_for_k2-0.50.zip">Download version 0.5</a>
 </div>
 
 **Changelog**
@@ -25,7 +23,7 @@ Enjoy!
 
 **Installation**: Simply extract to your K2 folder (wp-content/themes/k2/) and then activate from the K2 options menu! Oh, you might want to edit the images in the /styles/digivation/headers/ folder.
 
-<img src="http://digivation.net/wp-content/uploads/2007/08/digivation_screenshot.png" alt="Digivation Theme" class="center" />
+<img src="http://archive.digivation.net/wp-content/uploads/2007/08/digivation_screenshot.png" alt="Digivation Theme" class="center" />
 
  [1]: http://www.alistapart.com/articles/randomizer/
  [2]: http://www.m3nt0r.de/blog/lightbox-wordpress-plugin/

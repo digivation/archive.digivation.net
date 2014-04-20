@@ -1,5 +1,4 @@
 ---
-title: Macon, Georgia
 author: Matthew Smith
 layout: page
 tags:

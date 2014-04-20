@@ -52,17 +52,17 @@ The backend&#8230; well it&#8217;s just chock full of all those good things like
 
 That&#8217;s it for now. Anything else?
 
- [1]: http://digivation.net/2006/08/11/why-telephones-use-negative-forty-eight-volts-dc/
- [2]: http://digivation.net/wordpress/
+ [1]: http://archive.digivation.net/2006/08/11/why-telephones-use-negative-forty-eight-volts-dc/
+ [2]: http://archive.digivation.net/wordpress/
  [3]: http://www.urbandictionary.com/define.php?term=homeslice "n. To be used in same context of of Homeboy."
  [4]: http://www.dslwebserver.com/
  [5]: http://wordpress.org
- [6]: http://digivation.net/2006/01/24/welcome-back/
- [7]: http://digivation.net/browse/
- [8]: http://digivation.net/2007/06/22/and-now-id-like-to-introduce/
- [9]: http://digivation.net/2007/06/25/july-goals/
- [10]: http://digivation.net/2007/07/
- [11]: http://digivation.net/2007/08/01/july-web-goal-results-are-in/
+ [6]: http://archive.digivation.net/2006/01/24/welcome-back/
+ [7]: http://archive.digivation.net/browse/
+ [8]: http://archive.digivation.net/2007/06/22/and-now-id-like-to-introduce/
+ [9]: http://archive.digivation.net/2007/06/25/july-goals/
+ [10]: http://archive.digivation.net/2007/07/
+ [11]: http://archive.digivation.net/2007/08/01/july-web-goal-results-are-in/
  [12]: http://gallery.menalto.com/
  [13]: http://wpg2.galleryembedded.com/index.php?title=Main_Page
  [14]: http://cutline.tubetorial.com/
@@ -71,4 +71,4 @@ That&#8217;s it for now. Anything else?
  [17]: http://warpspire.com/hemingway
  [18]: http://www.pearsonified.com/
  [19]: http://www.webhostingbuzz.com/idev/idevaffiliate.php?id=438
- [20]: http://digivation.net/2007/07/03/webhostingbuzz-review/
+ [20]: http://archive.digivation.net/2007/07/03/webhostingbuzz-review/

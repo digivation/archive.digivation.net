@@ -15,11 +15,11 @@ If you have some suggestions on how to improve it (at the moment, I&#8217;m very
 {% highlight php %}
 /*
 Plugin Name: Super Custom Login Page
-Plugin URI: http://digivation.net/wordpress/super-custom-login-page/
+Plugin URI: http://archive.digivation.net/wordpress/super-custom-login-page/
 Description: Based on BM Custom Login, you can display custom images on the wordpress login screen and modify the header link. Customize away!
 Author: Matthew Smith
 Version: 0.01b
-Author URI: http://digivation.net/
+Author URI: http://archive.digivation.net/
 */ 
 /*
 	Functions

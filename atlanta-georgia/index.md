@@ -1,5 +1,4 @@
 ---
-title: Atlanta, Georgia
 author: Matthew Smith
 layout: page
 tags:
